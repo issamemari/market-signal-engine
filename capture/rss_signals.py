@@ -346,7 +346,7 @@ def fetch_and_classify(config: dict) -> list[dict]:
             unique_articles.append(a)
 
     limiter = RateLimiter(MAX_REQUESTS_PER_MINUTE)
-    max_workers = min(4, len(unique_articles))
+    max_workers = 1
     from llm import get_model
     model_name = get_model("classify")
     print(f"  🔍 Classifying {len(unique_articles)} unique articles with {model_name} ({max_workers} threads, {MAX_REQUESTS_PER_MINUTE} rpm)...")
