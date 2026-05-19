@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Configuration — Market Signal Engine</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <nav>
+        <div class="nav-brand">📡 Market Signal Engine</div>
+        <div class="nav-links">
+            <a href="/" class="active">Configuration</a>
+            <a href="/signals">Signaux</a>
+        </div>
+    </nav>
+
+    <main class="container">
+        <div class="page-header">
+            <h1>Configurations Salons</h1>
+            <button class="btn btn-primary" onclick="showCreateForm()">+ Nouveau salon</button>
+        </div>
+
+        <div id="config-list" class="card-grid"></div>
+
+        <!-- Create/Edit modal -->
+        <div id="config-modal" class="modal hidden">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 id="modal-title">Nouveau salon</h2>
+                    <button class="btn-close" onclick="closeModal()">&times;</button>
+                </div>
+                <form id="config-form" onsubmit="saveConfig(event)">
+                    <div class="form-section">
+                        <h3>Informations salon</h3>
+                        <div class="form-grid">
+                            <div class="form-group">
+                                <label>Identifiant (slug)</label>
+                                <input type="text" id="cfg-name" required placeholder="ex: bdaip_2026">
+                            </div>
+                            <div class="form-group">
+                                <label>Nom du salon</label>
+                                <input type="text" id="cfg-salon-name" required placeholder="ex: Big Data & AI Paris 2026">
+                            </div>
+                            <div class="form-group">
+                                <label>Code court</label>
+                                <input type="text" id="cfg-short-code" required placeholder="ex: BDAIP">
+                            </div>
+                            <div class="form-group">
+                                <label>Dates</label>
+                                <input type="text" id="cfg-dates" required placeholder="ex: 15-16 septembre 2026">
+                            </div>
+                            <div class="form-group">
+                                <label>Lieu</label>
+                                <input type="text" id="cfg-location" required placeholder="ex: Palais des Congrès, Paris">
+                            </div>
+                            <div class="form-group full-width">
+                                <label>Thématiques (une par ligne)</label>
+                                <textarea id="cfg-themes" rows="3" placeholder="Intelligence Artificielle Générative&#10;Data Engineering"></textarea>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-section">
+                        <h3>Types de signaux</h3>
+                        <div id="signal-types-container"></div>
+                        <button type="button" class="btn btn-small" onclick="addSignalType()">+ Ajouter un type</button>
+                    </div>
+
+                    <div class="form-section">
+                        <h3>Scoring</h3>
+                        <div class="form-grid">
+                            <div class="form-group">
+                                <label>Poids — Fit compte (%)</label>
+                                <input type="number" id="cfg-w-fit" value="35" min="0" max="100">
+                            </div>
+                            <div class="form-group">
+                                <label>Poids — Force signal (%)</label>
+                                <input type="number" id="cfg-w-strength" value="40" min="0" max="100">
+                            </div>
+                            <div class="form-group">
+                                <label>Poids — Timing (%)</label>
+                                <input type="number" id="cfg-w-timing" value="25" min="0" max="100">
+                            </div>
+                            <div class="form-group">
+                                <label>Seuil HOT (≥)</label>
+                                <input type="number" id="cfg-t-hot" value="7.5" step="0.5" min="0" max="10">
+                            </div>
+                            <div class="form-group">
+                                <label>Seuil WARM (≥)</label>
+                                <input type="number" id="cfg-t-warm" value="5.0" step="0.5" min="0" max="10">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-actions">
+                        <button type="button" class="btn" onclick="closeModal()">Annuler</button>
+                        <button type="submit" class="btn btn-primary">Enregistrer</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </main>
+
+    <script src="/static/app.js"></script>
+    <script>loadConfigs();</script>
+</body>
+</html>

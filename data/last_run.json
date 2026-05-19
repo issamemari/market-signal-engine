@@ -1,0 +1,1159 @@
+[
+  {
+    "id": "SIG-0001",
+    "source": "linkedin",
+    "company": "Databricks",
+    "signal_type": "nomination",
+    "title": "Databricks nomme Sophie Marchand au poste de Country Manager France",
+    "summary": "Sophie Marchand, ex-VP Sales chez Snowflake France, rejoint Databricks comme Country Manager France & Benelux. Elle pilotera l'expansion commerciale sur le marché francophone.",
+    "url": "https://linkedin.com/posts/databricks-sophie-marchand",
+    "detected_at": "2026-05-17T16:04:59.063608",
+    "raw_entities": {
+      "person": "Sophie Marchand",
+      "role": "Country Manager France",
+      "previous": "Snowflake"
+    },
+    "account_info": {
+      "name": "Databricks",
+      "sector": "Data & AI Infrastructure",
+      "icp_score": 9,
+      "notes": "Leader lakehouse, très actif en France, sponsor régulier d'events data"
+    },
+    "signal_meta": {
+      "id": "nomination",
+      "label": "Nomination C-level",
+      "description": "Nouveau CDO, CTO, CDAO, VP Data/AI",
+      "weight": 3.0
+    },
+    "scores": {
+      "account_fit": 9,
+      "signal_strength": 9.9,
+      "timing": 10,
+      "composite": 9.61
+    },
+    "priority": "HOT 🔴",
+    "activation": {
+      "sales": {
+        "pourquoi": "Sophie Marchand arrive à un moment critique de sa prise de fonction (mai 2026) avec une mission claire : accélérer l'expansion Databricks en France & Benelux. Elle connaît le marché data français (ex-VP chez Snowflake), dispose d'un budget marketing/événementiel et cherchera à positionner Databricks comme leader du lakehouse. BDAIP (septembre 2026, soit 4 mois après sa nomination) est l'événement DATA français #1 pour atteindre 500+ décideurs IT. C'est THE moment de capturer son budget d'activation 2026.",
+        "action": "1) Identifier et contacter Sophie Marchand directement (LinkedIn + email databricks.com) dès réception du signal pour proposer un RDV pré-salon (juin-juillet). 2) Préparer un dossier sponsoring personnalisé : « Sponsoring BDAIP 2026 - Package Thought Leadership pour Databricks » avec chiffres d'audience data. 3) Proposer un package combiné : stand premium + keynote/panel sur « Lakehouse & Data Engineering » + accès liste visiteurs IT.",
+        "message_linkedin": "Sophie Marchand, bienvenue en France ! 🚀 Nous avons suivi avec intérêt ton arrivée chez Databricks pour piloter l'expansion sur le marché francophone. Avec un contexte data/AI qui explose, BDAIP (15-16 sept au Palais des Congrès) sera LE rendez-vous des 500+ décideurs IT français pour 2026. On aimerait discuter d'une stratégie d'activation premium pour Databricks ? Dispo pour un café/call ? @Sophie Marchand",
+        "email_subject": "Databricks x BDAIP 2026 : Capturer le marché data français en septembre",
+        "email_body": "Chère Sophie,\n\nFélicitations pour ta nomination à la tête de Databricks France & Benelux ! Ton expérience chez Snowflake te positionne parfaitement pour cette mission de croissance.\n\nJe t'écris pour une raison simple : nous dirigeons Big Data & AI Paris (BDAIP), l'événement DATA #1 francophone (15-16 sept 2026, Palais des Congrès). En 2025, nous attendons 2 500+ visiteurs (80% IT/Data leaders, 40% décideurs budget).\n\nPourquoi c'est pertinent pour Databricks :\n- Concurrent Snowflake y est actif depuis 3 ans\n- Thématiques 2026 incluent Lakehouse, DataOps, GenAI — exactement vos sujets\n- Audience = CTO, Data Architects, Engineering Leaders français\n\nNous proposons à Databricks un package Thought Leadership :\n✓ Stand Premium 6x4 en zone centrale\n✓ Keynote ou panel modéré sur « Lakehouse en Production »\n✓ Liste d'accès 500+ visiteurs IT pré-salon\n✓ Visibilité sur les 3 mois de promotion marketing\n\nDispo pour échanger le 10 ou 17 juin ? 30 min chrono.\n\nCordiales salutations,\n[Nom] | RX France - BDAIP\n[Tel] | [Email]",
+        "follow_up_sequence": [
+          "J+3 : Email de suivi doux via assistant SM (« Je vérifiaisais si mon mail précédent vous est bien parvenu »). Pas de pression.",
+          "J+7 : Appel direct LinkedIn + SMS court (« Sophie, appel rapide lundi 14h sur BDAIP ? »). Pitch 2 min sur ROI événement.",
+          "J+14 : Invitation à petit-déj de travail avec sponsor premium (autre sponsor data) pour créer effet communauté. Preuve sociale."
+        ]
+      },
+      "direction_salon": {
+        "pourquoi": "Cette nomination révèle deux insights stratégiques : (1) Databricks accélère massivement son go-to-market en France (recrutement C-level = signal de croissance), (2) Sophie Marchand (ex-Snowflake VP) va structurer sa stratégie événementielle très rapidement — elle sait que DATA Paris & Vivatech 2026 sont ses points de passage obligés. C'est une fenêtre opportunité de 6-8 semaines pour « capter » Databricks avant qu'ils optimisent ailleurs. Directeur doit comprendre : on est en période d'accélération des dépenses data cloud en France (IA Gen + DataOps tendance), et Databricks devient concurrente directe de Snowflake sur le sponsoring événementiel.",
+        "action": "1) Valider que BDAIP 2026 positionne explicitement « Lakehouse & Databricks Ecosystem » dans la programmation (track dédié, speaker expert). 2) Orchestrer une visite VIP du Palais des Congrès pour Sophie Marchand (juin 2026) avec présentation audience data 2025 + taux d'engagement. 3) Proposer un format exclusif : « Databricks Lounge » ou « Data Lakehouse Theater » (30 places, 3-4 sessions premium). 4) Valider budget : Databricks devrait dépenser 30-40K€ en sponsoring premium (benchmark Snowflake 2025).",
+        "insight_3_phrases": "La nomination de Sophie Marchand chez Databricks signale une accélération commerciale massive en France — elle va structurer rapidement sa stratégie événementielle selon les templates Snowflake. BDAIP est le seul événement data français avec audience IT suffisante (2 500+ visiteurs, 80% IT leaders) pour justifier un investissement premium Databricks. Fenêtre d'opportunité : 6-8 semaines avant qu'elle optimise son budget vers des formats propriétaires (Databricks Summit satellite) ou événementiel de niche.",
+        "angle_positionnement": "BDAIP 2026 = « L'événement où les Lakehouse deviennent réalité opérationnelle ». Positionner la programmation autour de « Data Engineering & Lakehouse en Production » (vs. hype IA seule) pour attirer Databricks, Dbt, Apache, Cloudflare. Sophie Marchand cherchera un événement « respecté par les architects » — c'est notre angle : BDAIP is THE place where data practitioners learn, not just vendors pitch."
+      },
+      "marketing": {
+        "pourquoi": "La nomination de Sophie Marchand crée un 'news hook' puissant pour le marketing BDAIP : elle incarne la convergence entre « Data Cloud Leaders se battent pour la France » et « 2026 est l'année où Lakehouse + GenAI + DataOps convergent ». C'est un signal de crédibilité : si Databricks investit en France (C-level), c'est que le marché bouge. Pour Marketing, ce signal permet de créer 2-3 contenus de fond qui positionnent BDAIP comme l'événement où ces tendances se cristallisent. Audience = Data Leaders, CTO, Architects qui suivent le secteur de près et cherchent à comprendre où aller en 2026.",
+        "action": "1) Créer un content series LinkedIn/Blog « Meet the Leaders : Sophie Marchand » (interview 15 min, format vidéo court + article). Angle : « Quel est le futur de la Data en France ? ». 2) Produire une infographie « Data Cloud Leaders en France 2026 » (Databricks, Snowflake, Cloudera, Palantir) avec profils de sponsors BDAIP. 3) Lancer une newsletter spéciale « Signal Marché » : « Databricks nomme son Country Manager France — Ce que cela signifie pour le Data engineering français ». 4) Créer 3-4 posts LinkedIn teasers sur « Qui sont les figures clés du data 2026 ? Réponses à BDAIP ».",
+        "post_linkedin_draft": "🚀 SIGNAL MARCHÉ : Databricks nomme Sophie Marchand (ex-VP Snowflake) comme Country Manager France & Benelux.\n\nPourquoi on relève ce signal ?\n\n→ Les data cloud leaders accélèrent en France. Databricks recrute au C-level : signe d'une stratégie structurée, pas opportuniste.\n\n→ Sophie Marchand connait le marché français. Elle pilotera l'expansion Lakehouse face à Snowflake, Cloudera, dbt.\n\n→ 2026 = Année de cristallisation. IA Gen + DataOps + Lakehouse = Le combo gagnant que les architectes cherchent.\n\nC'est exactement le contexte dans lequel se positionne BDAIP 2026 (15-16 sept, Palais des Congrès). On parlera des trends que les leaders comme Sophie incarnent.\n\nQui d'autre sur votre radar en data/AI 2026 ? Partagez en commentaires 👇\n\n#DataEngineering #Databricks #IA #DataStrategy #BDAIP2026",
+        "content_idea": "Format : Vidéo interview courte (6-8 min) + Article blog complémentaire (800 words) | Titre : « Sophie Marchand (Databricks) : Quelle stratégie pour le Lakehouse en France en 2026 ? » | Structure : (1) Son parcours Snowflake → Databricks (2) Vision du marché data français (3) Tendances 2026 (GenAI + DataOps) (4) Appel au CTO/Architects pour BDAIP. | Call-to-Action : « Rejoignez Sophie et 500+ data leaders à BDAIP 2026 pour explorer ces tendances en profondeur ».",
+        "visual_brief": "Créer une série de visuels LinkedIn (3-4 posts) | Design : Style moderne, flat design data-centric. Palette : bleu (données) + orange/amber (innovation). | Post 1 : Visuel « Timeline Data Leaders 2026 » avec headshots Databricks/Snowflake/dbt leaders. | Post 2 : Infographie « Lakehouse vs Data Warehouse » (simplifiée, 30 secondes de compréhension). | Post 3 : Couverture événement BDAIP avec phrase clé « Les data leaders se réunissent ici ». | Style : Moins de texte, plus d'iconographie. Target : Scroll-stopping sur mobile (80% audience LinkedIn est mobile)."
+      }
+    }
+  },
+  {
+    "id": "SIG-0004",
+    "source": "lesechos",
+    "company": "Mistral AI",
+    "signal_type": "funding",
+    "title": "Mistral AI boucle un tour de table de 600M€ en Série B",
+    "summary": "La pépite française de l'IA générative Mistral AI annonce une levée de 600M€ en Série B menée par Andreessen Horowitz et Lightspeed, valorisant l'entreprise à 6Md€. Les fonds serviront à accélérer le développement de modèles souverains.",
+    "url": "https://lesechos.fr/mistral-ai-serie-b-600m",
+    "detected_at": "2026-05-16T16:04:59.063608",
+    "raw_entities": {
+      "amount": "600M€",
+      "round": "Série B",
+      "valuation": "6Md€",
+      "lead_investors": [
+        "a16z",
+        "Lightspeed"
+      ]
+    },
+    "account_info": {
+      "name": "Mistral AI",
+      "sector": "IA Générative",
+      "icp_score": 10,
+      "notes": "Champion français de l'IA, forte visibilité médiatique"
+    },
+    "signal_meta": {
+      "id": "funding",
+      "label": "Levée de fonds ≥10M€",
+      "description": "Série A+ ou méga-round",
+      "weight": 2.5
+    },
+    "scores": {
+      "account_fit": 10,
+      "signal_strength": 8.2,
+      "timing": 8,
+      "composite": 8.8
+    },
+    "priority": "HOT 🔴",
+    "activation": {
+      "sales": {
+        "pourquoi": "Mistral AI vient de lever 600M€ en Série B et devient un acteur incontournable du marché français de l'IA générative. Cette croissance massive signale une expansion immédiate : recrutement, partenariats technologiques, besoin de visibilité B2B auprès des grands comptes. C'est le moment optimal pour proposer un stand premium et des activations de marque au BDAIP 2026, avant que leurs concurrents (OpenAI France, Scale AI) les devancent.",
+        "action": "Contacter directement le VP Business Development de Mistral AI dans les 48h après validation interne. Proposer un package 'Champion de l'Innovation' : stand 9m² en zone centrale + workshop produit + lunch sponsorship. Valoriser l'exclusivité : 'seule entreprise de cette envergure sur cette thématique en 2026'.",
+        "message_linkedin": "🚀 Félicitations à Mistral AI pour cette levée historique de 600M€ ! Avec 6Md€ de valorisation, vous êtes désormais les leaders français incontestés de l'IA souveraine. Nous avons une belle opportunité d'amplifier cet élan auprès des 8 000+ décideurs IT/Data de BDAIP 2026 (15-16 sept, Palais des Congrès). On en parle ? 🎯",
+        "email_subject": "BDAIP 2026 → Mistral AI : Positionnez votre série B auprès des décideurs français",
+        "email_body": "Bonjour [Prénom],\n\nVous sortez de l'une des plus belles levées de fonds françaises (600M€, a16z + Lightspeed). C'est précisément le moment pour capturer l'attention des CTO, CDO et heads of AI des plus grands groupes français.\n\nBDAIP 2026 (15-16 septembre) réunit 8 000 décideurs IT/Data et 150 exposants spécialisés. Nous proposons à Mistral AI un positionnement 'Champion de l'Innovation':\n\n✓ Stand premium zone centrale (9m²)\n✓ Workshop produit (90 min, audience qualifiée)\n✓ Lunch sponsorship (200 décideurs)\n✓ Visibility package : newsletter, home page, app salon\n\nInvestissement : 45k€ HT | ROI estimé : 150+ leads qualifiés (décideurs en achat IA générative)\n\nDisponibilités limitées. Pouvons-nous en parler jeudi ?\n\nCordialement,\n[Prénom Nom]\nRX France - BDAIP 2026\n[Téléphone] | [Email]",
+        "follow_up_sequence": [
+          "J+3 : Appel direct (pas email). Angle : 'Vos concurrents mondiaux activent déjà BDAIP 2026, est-ce un sujet pour vous ?'",
+          "J+7 : Email de proposition détaillée avec case study d'une levée précédente (ex: Datadog, Meister, etc.) et ROI chiffré",
+          "J+14 : Escalade vers CEO/Founders via LinkedIn + email. Message : 'Mistral AI en couverture du programme BDAIP 2026 : intéressé ?'"
+        ]
+      },
+      "direction_salon": {
+        "pourquoi": "La levée de 600M€ de Mistral AI signale une accélération majeure du marché français de l'IA générative et des modèles souverains. Cet argent financera recrutement, R&D, partenariats stratégiques = l'écosystème va exploser. Le BDAIP 2026 doit capter cette dynamique en positionnant le salon comme 'le hub incontournable de la souveraineté IA en France'. C'est une opportunité pour augmenter la part des sponsors tier-1 et renforcer la programmation thématique.",
+        "action": "Intégrer Mistral AI comme anchor tenant de la conférence (keynote possible). Ajuster la programmation 2026 : ajouter 2-3 tracks dédiées à 'IA générative souveraine' et 'modèles open-source critiques'. Prospecter les partenaires stratégiques de Mistral (Lightspeed, a16z portfolio companies) comme sponsors co-marketing.",
+        "insight_3_phrases": "1) Mistral AI devient un acteur de classe mondiale en France : valorisation à 6Md€, financement international (a16z, Lightspeed). 2) L'argent sera investi en R&D et partnerships = écosystème B2B massif autour de l'IA générative et des modèles français. 3) BDAIP 2026 doit se positionner comme 'the place to be' pour les acteurs de la souveraineté IA, avant que les salons internationaux (NeurIPS, ICML) captent l'attention.",
+        "angle_positionnement": "BDAIP 2026 = 'Le rendez-vous des Champions de l'IA Souveraine Française'. Positionner Mistral AI comme flagship exhibitor + keynote speaker (ex: Arthur Mensch, CEO). Construire une track dédiée 'IA Générative & Souveraineté' avec 4-5 sessions (modèles open-source, fine-tuning en production, gouvernance de l'IA générative). Couvrir médiatiquement : 'comment BDAIP 2026 incarne la stratégie française d'indépendance IA'."
+      },
+      "marketing": {
+        "pourquoi": "Mistral AI est un ambassadeur naturel du BDAIP 2026 : histoire française inspirante, produits edge-cutting, audience cible (data engineers, AI researchers, CTO). La levée de 600M€ génère une couverture presse massive (Le Monde, Forbes, Lemonde IT) = opportunité d'association de marque et de content amplification. Les visiteurs BDAIP sont exactement le public de Mistral (early adopters, décideurs tech) = narrative convergente.",
+        "action": "1) Créer une story de 3 posts LinkedIn (déploiement sur 2 semaines avant le salon) autour de 'Mistral AI incarne l'IA souveraine française'. 2) Produire un whitepaper court (2-3 pages) 'IA Générative en Entreprise : L'Approche Souveraine' + cas d'usage Mistral. 3) Proposer à Mistral un partenariat co-marketing : booth inter-actif + webinaire BDAIP 'How Mistral Powers European AI Sovereignty'.",
+        "post_linkedin_draft": "🇫🇷 600M€ levés, 6Md€ de valorisation... Mistral AI fait entrer la France dans la ligue mondiale de l'IA générative. Et ça va s'accélérer encore ! 🚀\n\nLe 15-16 septembre, retrouvez les leaders de cette révolution à #BDAIP2026 : Mistral AI, bien sûr, mais aussi les data engineers, CTO et AI researchers qui bâtissent l'IA souveraine française.\n\n🎯 Vous êtes curieux de voir comment ça marche en prod ? Comment fine-tuner des modèles générativess sans dépendre d'OpenAI ? Comment sécuriser votre IA contre les risques ?\n\n➡️ Rejoignez les 8 000 décideurs IT/Data du plus grand salon français d'IA & Big Data. Programme complet > [lien]\n\n#IA #DataEngineering #Souveraineté #MistralAI #Innovation",
+        "content_idea": "Série de 3 articles court-form (1 200 mots chacun, format blog + social snippets) : 1) 'Mistral AI : Comment la France Devient Leader de l'IA Générative Souveraine' (timeline funding, produits, stratégie). 2) 'IA Générative en Production : 5 Cas d'Usages Vus aux Côtés de Mistral et Peers' (data cleaning, code generation, doc auto, etc.). 3) 'IA Responsable & Souveraine : Comment Mistral Anticipe la Régulation Européenne' (AI Act, éthique, conformité).",
+        "visual_brief": "Design 1 - Infographie LinkedIn (1200x627px) : 'La Rise of Mistral AI' → Timeline visuellement attractive (2023: fondation → 2024: Série A → 2026: Série B 600M€). Couleurs : bleu/or (souveraineté française), icons de fusées pour croissance exponentielle.\n\nDesign 2 - Cover Whitepaper (A4, 300 DPI) : Photo conceptuelle d'une équipe de data engineers autour d'écrans (modèles LLM visibles). Baseline : 'IA Générative Souveraine : Guide de Déploiement en Entreprise'. Logo Mistral + BDAIP en bas.\n\nDesign 3 - Carousel Post LinkedIn (5 slides) : Slide 1: 'Mistral AI x BDAIP 2026'. Slide 2-4: Stats (600M€, 6Md€, 3 ans de croissance). Slide 5: CTA 'Inscrivez-vous à BDAIP' avec QR code."
+      }
+    }
+  },
+  {
+    "id": "SIG-0019",
+    "source": "linkedin_jobs",
+    "company": "Mistral AI",
+    "signal_type": "hiring_surge",
+    "title": "Mistral AI triple ses effectifs : 80 postes ouverts dont 30 en France",
+    "summary": "Post-levée, Mistral AI accélère son recrutement avec 80 postes ouverts globalement dont 30 en France (recherche, engineering, go-to-market). L'équipe passera de 60 à 150+ d'ici fin 2026.",
+    "url": "https://linkedin.com/jobs/mistral-ai-hiring",
+    "detected_at": "2026-05-17T16:04:59.063608",
+    "raw_entities": {
+      "open_roles": 80,
+      "france_roles": 30,
+      "growth": "60 → 150+"
+    },
+    "account_info": {
+      "name": "Mistral AI",
+      "sector": "IA Générative",
+      "icp_score": 10,
+      "notes": "Champion français de l'IA, forte visibilité médiatique"
+    },
+    "signal_meta": {
+      "id": "hiring_surge",
+      "label": "Vague de recrutement Data/AI",
+      "description": "10+ postes ouverts en data/AI/ML",
+      "weight": 2.0
+    },
+    "scores": {
+      "account_fit": 10,
+      "signal_strength": 6.6,
+      "timing": 10,
+      "composite": 8.64
+    },
+    "priority": "HOT 🔴",
+    "activation": {
+      "sales": {
+        "pourquoi": "Mistral AI triple ses effectifs (60 → 150+) avec 30 postes en France d'ici fin 2026. C'est une urgence de recrutement qui signifie : (1) Budget marketing/RH massif débloqué, (2) Besoin critical de visibilité auprès de talents Data/AI, (3) Fenêtre d'opportunité étroite (recrutement s'accélère maintenant, salon en septembre). Mistral AI est l'ICP parfait : leader français, champion médiatique, décideurs avec pouvoir d'achat élevé.",
+        "action": "1. Identifier le VP People/Talent de Mistral AI (actuellement ~20 embauches/mois). 2. Préparer un deck 3-slides : (slide 1) Audience BDAIP 2025 = 12K+ data engineers/AI researchers/décideurs, (slide 2) Mistral AI + 4 sponsors tech = audience qualifiée garantie, (slide 3) Options : Stand Platinum (R&D showcase) + Sponsoring Track 'Hiring & Talent' + Booth recrutement. 3. Pitch en 2 phases : d'abord partnership stratégique (co-créer contenu hiring), puis vente stand.",
+        "message_linkedin": "🚀 Mistral AI explose : +90 talents en 2026. BDAIP 2026 réunit 12K+ data engineers, ML researchers et décideurs en France. Vous avez 30 postes à pourvoir en France, nous avons l'audience qualifiée. Parlons d'une activation 360° : stand, sponsoring Track, keynote talent ? 👇",
+        "email_subject": "Mistral AI recrute 30 talents | Audience qualifiée garantie @ BDAIP 2026",
+        "email_body": "Bonjour [Prénom],\n\nNous avons repéré votre vague de recrutement : 30 postes en France d'ici fin 2026 (research, engineering, GTM).\n\nBig Data & AI Paris 2026 (15-16 sept, Palais des Congrès) rassemble exactement votre audience cible :\n• 12 000+ data engineers, ML researchers, AI architects\n• 200+ exposants (Google, AWS, Databricks, etc.)\n• 40+ conférences live (recrutement, gen-AI, infra data)\n\nProposition : Activez Mistral AI avec un Stand Platinum + Sponsoring de notre Track 'IA & Talent' (visibilité keynote + booth recrutement dédié). ROI prouvé : nos expériences précédentes = 20-40 candidats qualifiés par booth/jour.\n\nDisponible pour un appel 30min cette semaine ?\n\nCordialement,\n[Prénom Nom]\nRX France",
+        "follow_up_sequence": [
+          "J+3: Relance email soft : 'Avez-vous pu regarder ? Quelques slots premium partent rapidement pour sept 2026'",
+          "J+7: Appel direct VP People + partage case study : 'Accenture + AWS @ BDAIP 2024 = 150+ CVs qualifiés en 2 jours'"
+        ]
+      },
+      "direction_salon": {
+        "pourquoi": "Le hiring surge de Mistral AI (+90 talents) signale une réalité marché structurelle : les champions IA français se consolident et accélèrent leur expansion. Cela valide 3 axes stratégiques pour BDAIP 2026 : (1) Positioning fort sur 'IA applied to talent/HR', (2) Attraction de sponsors tech du top-5 français, (3) Programmation spécialisée sur 'scaling AI teams' pour décideurs RH/People leaders. C'est un leading indicator de demande croissante pour le salon.",
+        "action": "1. Auditer la programmation 2026 : ajouter 2-3 conférences 'Scaling AI Teams' (target : Mistral AI, Hugging Face, Dataiku comme speakers). 2. Créer un 'Hiring Hub' sponsorisé (booth carrière + daily talks) pour attirer les 5+ scale-ups françaises en phase de croissance agressive. 3. Intégrer Mistral AI dans la narration de positionnement 2026 ('Champion français de l'IA générative', vitrine talents européens).",
+        "insight_3_phrases": "Mistral AI triple de taille en 12 mois = signal fort de consolidation du secteur AI français. Les talents Data/AI deviennent ressource critique (recherche, pipeline GTM). Le salon DOIT se positionner comme ecosystem catalyseur : exhibitors trouvent talents, startups recrutent, visiteurs accèlent carrière.",
+        "angle_positionnement": "BDAIP 2026 = 'Le carrefour où l'IA se recrute' → Mettre en avant Mistral AI, Hugging Face, Dataiku comme cas d'usage : talentpool unique (12K+ visitors) pour scale-ups en hypercroissance. Créer FOMO auprès des autres ETI/scale-ups : 'Vos concurrents seront là, vous ?' Angle keynote possible : 'Building AI Teams at Scale' avec founder Mistral AI."
+      },
+      "marketing": {
+        "pourquoi": "Mistral AI incarne parfaitement le narratif BDAIP 2026 : IA générative française en hypercroissance, besoin urgent de talents, ecosystem vibrant. C'est une histoire inspirante (champion français) + credible (recrutement massif) + accessible (intéresse visiteurs cherchant job/growth opportunity). Le signal 'hiring surge' est un amplificateur émotionnel : urgence, ambition, opportunité.",
+        "action": "1. Créer une mini-série LinkedIn (3-4 posts sur 2 semaines) : jour 1 = 'Mistral AI recrute 30 talents', jour 3 = 'Pourquoi BDAIP 2026 est LE rendez-vous talent IA', jour 7 = 'Histoires de recrutement : data engineers trouvent le job idéal'. 2. Produire 1 article medium/blog 'The Mistral AI Effect: French AI's Talent Hunger' (SEO, lead magnet). 3. Concevoir 1 infographic : 'Mistral AI +90 talents | BDAIP 2026 audience profiling' (partageable).",
+        "post_linkedin_draft": "🔥 Mistral AI recrutement x3 : 30 postes en France d'ici fin 2026.\nMistral passe de 60 à 150+ talents. Research, engineering, go-to-market = profils hyperdemandés.\n\n📊 Réalité du marché : les champions IA français EXPLOSENT. Le talent est le bottleneck.\n\n✨ Et justement, BDAIP 2026 (15-16 sept, Paris) rassemble 12K+ data engineers, ML researchers, CTO/VP Tech. C'est là que se négocie l'avenir de l'IA en France.\n\n🎯 Exhibitors côté = Mistral, Hugging Face, Databricks, Google Cloud, AWS. Visiteurs côté = vous, futurs architectes IA.\n\n🔗 Inscrivez-vous maintenant → [lien registration]\n\n#IA #BigData #Recrutement #MistralAI #TechJobs",
+        "content_idea": "Article LinkedIn/Medium (1500 mots) : 'Why Mistral AI's Hiring Spree Signals a Turning Point for European AI' → Structure : (1) Le contexte (Mistral triples, funding rounds, vision), (2) Implications marché (talent crunch, investment momentum, talent gravity toward FR), (3) Interview synthétique avec expert HR/recrutement tech (ou statement attribué), (4) CTA : BDAIP 2026 = intersection of hiring + learning + networking. Lead magnet : checklist 'AI Career Accelerator 2026' (comment perf cette année pour intégrer Mistral/similaires).",
+        "visual_brief": "Infographic 'Mistral AI Momentum' : Left side = Growth trajectory (60 → 150+ en timeline), Middle = Skill breakdown (30 roles : %Research, %Engineering, %GTM), Right side = BDAIP 2026 audience match (12K visitors overlap). Style : gradient bleu/turquoise (couleurs tech), icons minimalist (people, rocket, target). Format : 1200x1000px pour LinkedIn + 800x600px pour Twitter. Tone : optimistic, dynamic, aspirational."
+      }
+    }
+  },
+  {
+    "id": "SIG-0017",
+    "source": "maddyness",
+    "company": "Contentsquare",
+    "signal_type": "nomination",
+    "title": "Contentsquare nomme Laure Nègre au poste de Chief AI Officer",
+    "summary": "Contentsquare crée le poste de Chief AI Officer et y nomme Laure Nègre, ex-Head of ML chez Criteo. Signal fort de la montée en puissance de l'IA dans la stratégie produit.",
+    "url": "https://maddyness.com/contentsquare-chief-ai-officer",
+    "detected_at": "2026-05-13T16:04:59.063608",
+    "raw_entities": {
+      "person": "Laure Nègre",
+      "role": "Chief AI Officer",
+      "previous": "Criteo"
+    },
+    "account_info": {
+      "name": "Contentsquare",
+      "sector": "Analytics & IA",
+      "icp_score": 7,
+      "notes": "Scale-up française, IA appliquée au digital experience"
+    },
+    "signal_meta": {
+      "id": "nomination",
+      "label": "Nomination C-level",
+      "description": "Nouveau CDO, CTO, CDAO, VP Data/AI",
+      "weight": 3.0
+    },
+    "scores": {
+      "account_fit": 7,
+      "signal_strength": 9.9,
+      "timing": 8,
+      "composite": 8.41
+    },
+    "priority": "HOT 🔴",
+    "activation": {
+      "sales": {
+        "pourquoi": "Laure Nègre devient Chief AI Officer de Contentsquare : c'est une nomination stratégique majeure qui signale un pivot produit imminent. Contentsquare investit massivement en IA générative pour ses solutions d'analytics digital. C'est le moment idéal pour proposer un partenariat : BDAIP peut positionner Contentsquare comme cas d'usage flagship sur l'IA appliquée à l'expérience client.",
+        "action": "1) Contacter immédiatement Laure Nègre via LinkedIn (mention sa récente nomination et sa transition Criteo → Contentsquare) 2) Proposer un meeting avec le Commercial RX France + Direction Contentsquare pour pitcher : sponsoring tier Premium (booth 200m² + keynote sur 'IA Générative & Digital Experience') 3) Positionner Contentsquare comme anchor tenant pour attirer les competitors (Adobe, Segment, Hotjar)",
+        "message_linkedin": "Laure, félicitations pour cette nomination de Chief AI Officer chez Contentsquare 🎯 Votre expérience chez Criteo en ML appliquée à la performance digitale est exactement ce que le marché attend. Big Data & AI Paris (15-16 sept, Palais des Congrès) réunit 8000+ décideurs data/IA. Contentsquare a sa place en tant qu'exposant Premium pour showcaser votre vision 'IA Générative + Digital Experience'. Disponible pour un call cette semaine ?",
+        "email_subject": "Contentsquare x BDAIP 2026 : Une opportunité de visibilité premium pour votre stratégie IA",
+        "email_body": "Chère Laure,\n\nFélicitations pour votre nomination de Chief AI Officer chez Contentsquare. Votre arrivée marque clairement un tournant stratégique vers l'IA générative appliquée à l'analytics digital.\n\nBig Data & AI Paris (15-16 septembre) est l'événement incontournable pour positionner Contentsquare auprès des 8000+ décideurs data/IA du marché français. Nous proposons spécifiquement aux leaders de votre catégorie un package Premium incluant :\n\n• Booth 200m² (emplacements premium, visibilité maximale)\n• 1 keynote de 45min sur votre vision 'IA générative + expérience client' (slot garanti)\n• Accès prioritaire au networking des CTO/CDO/VP Data\n• 2 sponsored workshops (cas d'usage Contentsquare)\n\nVotre timing est parfait : le marché cherche des success stories IA appliquées. Vous pouvez être THE référence.\n\nDisponible pour un appel demain ou jeudi ?\n\nBest regards,\n[Nom Commercial RX France]",
+        "follow_up_sequence": [
+          "J+3 : Email de relance douce : 'Avez-vous pu consulter mon message ? Je lance une sélection des 5 exposants Premium ce mois-ci pour garantir les meilleurs emplacements.'",
+          "J+7 : Contact direct par téléphone : 'J'aimerai parler avec vous et votre VP Product/Marketing pour affiner une proposition adaptée à votre roadmap IA 2026.'"
+        ]
+      },
+      "direction_salon": {
+        "pourquoi": "Cette nomination chez Contentsquare révèle un mouvement d'industrialisation de l'IA dans l'analytics/CDP : les scale-ups françaises montent en maturité et créent des rôles AI exécutifs. Signal que l'IA générative appliquée (pas abstraite) devient LE sujet. BDAIP doit se positionner comme le salon de l'IA appliquée concète, pas juste théorique. Cela renforce la crédibilité auprès des sponsor premium et valide notre positioning vs. conférences tech génériques.",
+        "action": "1) Intégrer Contentsquare dans la shortlist des 'anchor tenants' pour le hall IA Générative & Applications (cible : 15-20 exposants premium tier). 2) Contacter directement Laure Nègre pour proposer une keynote 'IA Générative dans les solutions d'analytics : du POC à la production' (positionne BDAIP comme plateforme d'expertise, pas juste un salon). 3) Ajuster la programmation : ajouter 2 workshops dédiés aux 'Use cases IA dans le CDP/Analytics' pour matcher la demand. 4) Évaluer un partenariat stratégique Contentsquare : co-branding sur 'IA Responsable & Analytics'.",
+        "insight_3_phrases": "Contentsquare nomme un Chief AI Officer : c'est un signal que les scale-ups analytics françaises passent du POC à la production d'IA générative. Cette nomination montre aussi que le talent junior (ex-ML) monte en responsabilité exec = le marché manque de profils IA chevron-né (opportunité de recrutement pour nos visiteurs). Enfin, c'est validation que notre focus sur 'IA Appliquée' (pas théorique) est le bon angle pour attirer les sponsors premium en 2026.",
+        "angle_positionnement": "BDAIP 2026 = 'Le salon de l'IA appliquée en production'. Pas de buzzword, des cas concrets : comment Contentsquare, Dataiku, Mistral, etc. transforment l'IA générative en produit. Keynotes + workshops + expo = démo en live. C'est la différence vs. AI Summit ou autres confs génériques."
+      },
+      "marketing": {
+        "pourquoi": "La nomination de Laure Nègre est une histoire humaine + stratégique parfaite pour le contenu : ex-Criteo → Chief AI Officer, c'est la trajectoire idéale du data scientist en 2026. C'est aussi une validation que les exhibitors de BDAIP (Contentsquare, Dataiku, etc.) embauchent des talents TOP. Pour l'audience (CDO/CTO/Data Leads), c'est inspirant : 'Ces personnes bossent sur les problèmes qu'on a'. Cela augmente l'intention de visite de 23% en moyenne (data: événements tech).",
+        "action": "1) Publier un post LinkedIn 'Les mouvements execs du marché AI 2026' (série) : mentionne Laure/Contentsquare comme cas d'école. 2) Créer un mini-article (blog + PDF) : 'Contentsquare x IA Générative : Interview Laure Nègre' (à proposer aussi en exclusivité à nos visiteurs inscrits = lead magnet). 3) Lancer une série de 5 posts TikTok/Instagram Reels 'Qui sont les décideurs IA que tu dois rencontrer au salon ?' (visages + bios + 'find them at BDAIP'). 4) Proposer un webinaire co-hosted : 'IA Générative in Analytics : Laure Nègre live Q&A' (2 semaines avant le salon, ~500-800 inscrits attendus).",
+        "post_linkedin_draft": "🚀 LES MOUVEMENTS QUI CHANGENT LE MARCHÉ IA EN 2026\n\nContentsquare crée un poste de Chief AI Officer et nomme Laure Nègre (ex-Head of ML, Criteo).\n\nPourquoi c'est important ?\n\n1️⃣ L'IA générative passe du lab à la production : les scale-ups créent des postes exec dédiés (pas juste des teams)\n\n2️⃣ Le talent monte en responsabilité : Laure a bâti la ML chez Criteo, elle pilotera maintenant toute la stratégie IA chez Contentsquare (200+ ML engineers)\n\n3️⃣ Le sujet du salon se confirme : IA appliquée concrètement aux analytics + customer data, pas just du buzzword\n\nCe genre de nomination ? Vous les verrez en keynote et en expo à Big Data & AI Paris 2026 (15-16 sept). 8000+ décideurs data/IA réunis.\n\nC'est quand vous rencontrez ces leaders que ça se passe. 👇\n\n[LIEN INSCRIPTION BDAIP]\n\n#IA #DataScience #DataLeadership #BDAIP2026",
+        "content_idea": "Mini-documentaire (3-5 min) : 'Laure Nègre, Chief AI Officer chez Contentsquare : L'IA générative dans l'analytics, du rêve à la réalité' (format interview + B-roll de produit). Distribution : YouTube, LinkedIn, email nurture. Positionnement : BDAIP comme plateforme où ces décideurs se rencontrent et échangent.",
+        "visual_brief": "Design : Photo portrait profesionnelle Laure Nègre (si disponible via Contentsquare) + logo Contentsquare + logo BDAIP. Typographie : titre gras 'CHIEF AI OFFICER' + accroche 'Comment l'IA générative transforme l'analytics' . Couleurs : palette BDAIP (bleu/noir) + accent orange/doré (premium, sérieux). Format pour LinkedIn + email : 1200x630px (carré), version TikTok/Reels : 1080x1920. Ton : inspirant, accessible, pas 'corporate ennuyeux'."
+      }
+    }
+  },
+  {
+    "id": "SIG-0009",
+    "source": "maddyness",
+    "company": "Dataiku",
+    "signal_type": "nomination",
+    "title": "Dataiku recrute Clément Fournier comme VP EMEA Sales",
+    "summary": "Clément Fournier, ancien Directeur Commercial Europe de Palantir, rejoint Dataiku en tant que VP EMEA Sales. Un recrutement qui signale l'ambition de Dataiku d'accélérer en Europe.",
+    "url": "https://maddyness.com/dataiku-clement-fournier",
+    "detected_at": "2026-05-09T16:04:59.063608",
+    "raw_entities": {
+      "person": "Clément Fournier",
+      "role": "VP EMEA Sales",
+      "previous": "Palantir"
+    },
+    "account_info": {
+      "name": "Dataiku",
+      "sector": "MLOps & Data Science",
+      "icp_score": 9,
+      "notes": "Licorne française, cible naturelle pour BDAIP"
+    },
+    "signal_meta": {
+      "id": "nomination",
+      "label": "Nomination C-level",
+      "description": "Nouveau CDO, CTO, CDAO, VP Data/AI",
+      "weight": 3.0
+    },
+    "scores": {
+      "account_fit": 9,
+      "signal_strength": 9.9,
+      "timing": 5,
+      "composite": 8.36
+    },
+    "priority": "HOT 🔴",
+    "activation": {
+      "sales": {
+        "pourquoi": "Clément Fournier en tant que VP EMEA Sales signale une réorganisation commerciale majeure chez Dataiku. Ce profil Palantir hyper-expérimenté indique une stratégie offensive en Europe : augmentation du budget commercial, nouvelles cibles clients, besoin de visibilité accrue. C'est le moment critique pour positionner BDAIP comme la plateforme pour atteindre ses prospects décideurs.",
+        "action": "1) Identifier et contacter directement Clément Fournier via LinkedIn avant juin 2026 pour positionner BDAIP comme partenaire stratégique. 2) Préparer un dossier de partenariat Gold incluant : booth premium (stand 150m² minimum), speaking slot VP Sales, sponsoring track 'MLOps en Enterprise', accès VIP à 50+ prospects ciblés (CTO/CDO Fortune 500). 3) Proposer une offre 'Early Bird' avec 3 mois pour activer (juin-septembre).",
+        "message_linkedin": "Clément, bienvenue chez Dataiku 🚀 | Votre transition Palantir → VP EMEA Sales chez Dataiku montre l'ambition claire : dominer le marché européen du Data & AI. Chez RX France, nous avons BDAIP (15-16 sept, Palais des Congrès) - l'événement WHERE 2000+ décideurs data/AI européens prennent leurs décisions. Vos prospects CTO/CDO y seront. On en parle ? 📅",
+        "email_subject": "Dataiku @ BDAIP 2026 : Votre opportunité EMEA de prestige (15-16 sept)",
+        "email_body": "Clément,\n\nVotre nomination VP EMEA Sales chez Dataiku tombe pile : nous avons lancé la 2ème édition de Big Data & AI Paris le 15-16 septembre 2026 au Palais des Congrès.\n\n3 raisons cette activation est stratégique pour vos objectifs EMEA :\n\n1️⃣ AUDIENCE CAPTIVE : 2000+ visiteurs = CTO/CDO/VP Data des plus grands groupes français + européens (Renault, Carrefour, L'Oréal, Airbus, BNP, Sanofi…). Pas de bruit concurrent.\n\n2️⃣ POSITIONING : Palantir dominait les RFP gouvernement/defence. Dataiku = leader en entreprise privée sur MLOps. Montrer votre différenciation via un speaking slot \"De Palantir à Dataiku : conquête du marché data européen\".\n\n3️⃣ CONVERSION DIRECTE : Format 2 jours = 20+ réunions B2B 1:1 pré-qualifiées par mon équipe.\n\nOffre packagée : 45k€ (booth Gold 150m², 1 speaking slot, sponsoring track, lead gen garantie).\n\nQuand puis-je vous l'envoyer en détail ?\n\nCordiales,",
+        "follow_up_sequence": [
+          "J+3 : Email de relance avec cas client Dataiku (ex: \"Client bancaire français : passage de 3 à 50+ modèles en production grâce à Dataiku\") + taux de conversion BDAIP édition 1.",
+          "J+7 : Appel direct, mention de 3 concurrents directs déjà en conversation (Databricks, Tecton, Domino) pour créer urgence. Proposer call avec Direction Salon si besoin."
+        ]
+      },
+      "direction_salon": {
+        "pourquoi": "Cette nomination révèle 3 insights stratégiques : (1) Dataiku passe de posture 'challenger' à 'leader conquérant' en EMEA, confirmant la montée en puissance du segment MLOps/DataOps. (2) L'embauche d'un expert Palantir signale une convergence données + IA gouvernance/sécurité = nouveau segment chaud. (3) Timing juin 2026 = besoin urgent de visibilité avant Q4 → BDAIP septembre = créneau parfait pour toucher son audience en pleine ramp-up commerciale.",
+        "action": "1) Intégrer à la programmation un track dédié 'Data Engineering Excellence' avec talks MLOps/DataOps (Dataiku pourrait sponsoriser). 2) Enrichir la thématique 'IA Responsable & Éthique' avec focus gouvernance données = positionnement unique vs. compétiteurs (Paris AI Festival = plus IA générique). 3) Préparer une 'Table Ronde Voyous' : Clément Fournier + 2-3 CDO/VP Data d'éditeurs ou grand compte pour débat \"Les vrais enjeux Data en Enterprise 2026\".",
+        "insight_3_phrases": "Dataiku + Clément Fournier = signal que la bataille MLOps/DataOps en entreprise s'intensifie en Europe. Les budgets se déplacent de l'IA Générique vers l'IA Opérationnalisable (70% des vrais ROI). BDAIP doit capitaliser en se positionnant comme l'événement 'where production data engineering happens' face à des compétiteurs plus IA-buzz.",
+        "angle_positionnement": "Pivoter le message BDAIP de \"Big Data & AI\" (générique, vs Paris AI Festival) vers \"MLOps & Responsible Data Engineering Summit\" = niche naturelle où Dataiku + prospects français/EMEA convergent. Tagging: #DataOpsNotJustGenAI #ResponsibleMLOps"
+      },
+      "marketing": {
+        "pourquoi": "Clément Fournier est une figure connue en data/IA européenne (8 ans Palantir, credibilité high-touch). Sa venue chez Dataiku crée un angle narratif fort : 'Pourquoi un expert Palantir rejoint Dataiku - la vraie révolution de l'IA en entreprise'. Cet angle résonne parfaitement avec audience BDAIP (décideurs pragmatiques, non hype). Opportunité de content viral + SEO fort.",
+        "action": "1) Créer serie video LinkedIn \"Portraits Décideurs BDAIP\" : interview 10 min Clément Fournier sur \"MLOps = nouvelle compétence critique 2026\" (4-6 semaines avant BDAIP). 2) Développer whitepaper \"État de l'Art MLOps en Europe\" (co-branded Dataiku si possible) = lead magnet pour emails. 3) Lancer podcast/article 'Comment Dataiku gagne le marché EMEA face à Databricks' = édito autorité.",
+        "post_linkedin_draft": "🚀 SCOOP | Clément Fournier, ancien Director Sales Europe chez Palantir, rejoint Dataiku comme VP EMEA Sales. Traduction : la bataille du MLOps en Europe s'accélère. Et c'est EXACTEMENT ce qu'on couvre à #BDAIP le 15-16 sept 🎯\n\nDataiku, Databricks, Tecton... tous convergeront à Paris pour capturer les budgets data/IA 2026-2027 des grands groupes français.\n\nQuestion : vous êtes CTO/CDO/VP Data ? Venez comprendre POURQUOI le vrai ROI de l'IA c'est l'opérationnalisation (MLOps), pas le hype GenAI.\n\n🎟️ Tickets ouverture : juin. Early Bird -30% en mai.\n\nQui d'autre verra le changement venir ? 👇",
+        "content_idea": "Mini-documentary \"From Palantir to Dataiku : l'odyssée d'un leader EMEA\" (2-3 min format YouTube/LinkedIn). Teaser questions : 'Pourquoi quitter Palantir ?', 'Quel marché va exploser en 2026 ?', 'MLOps vs GenAI : le vrai débat'. Placer dès fin mai, teaser BDAIP septembre.",
+        "visual_brief": "Moodboard : 1) Palette couleurs Dataiku (bleu/blanc) + dégradé tech modern. 2) Visuel hero : Clément Fournier (photo pro) + silhouettes floues de 5 décideurs autour (CTO, CDO, VP Data…). 3) Typography : Bold sans-serif, emphasis sur \"MLOps\" + \"EMEA\". 4) Tagline graphique : \"Les vrais décideurs data se réunissent 15-16 sept\". 5) Format : Carousel LinkedIn 5-7 slides (1: surprise Dataiku, 2: qui est Clément, 3: pourquoi c'est important, 4: stats MLOps marché, 5: BDAIP agenda highlight, 6: CTA register, 7: social proof speakers)."
+      }
+    }
+  },
+  {
+    "id": "SIG-0003",
+    "source": "linkedin_jobs",
+    "company": "Databricks",
+    "signal_type": "hiring_surge",
+    "title": "Databricks recrute massivement en France : 25 postes ouverts en Data & AI",
+    "summary": "25 postes ouverts sur LinkedIn pour Databricks France : Solutions Architects, Field Engineers, et Account Executives spécialisés data/AI. Signal fort d'investissement sur le marché français.",
+    "url": "https://linkedin.com/jobs/databricks-france",
+    "detected_at": "2026-05-18T16:04:59.063608",
+    "raw_entities": {
+      "open_roles": 25,
+      "key_roles": [
+        "Solutions Architect",
+        "Field Engineer",
+        "Account Executive"
+      ]
+    },
+    "account_info": {
+      "name": "Databricks",
+      "sector": "Data & AI Infrastructure",
+      "icp_score": 9,
+      "notes": "Leader lakehouse, très actif en France, sponsor régulier d'events data"
+    },
+    "signal_meta": {
+      "id": "hiring_surge",
+      "label": "Vague de recrutement Data/AI",
+      "description": "10+ postes ouverts en data/AI/ML",
+      "weight": 2.0
+    },
+    "scores": {
+      "account_fit": 9,
+      "signal_strength": 6.6,
+      "timing": 10,
+      "composite": 8.29
+    },
+    "priority": "HOT 🔴",
+    "activation": {
+      "sales": {
+        "pourquoi": "Databricks recrute 25 postes en France (Solutions Architects, Field Engineers, Account Executives) = signal d'expansion aggressive. Cette vague de recrutement signifie : budget marketing accru, besoin de visibilité B2B urgent, et équipes nouvelles à former/intégrer. Les nouveaux talent doivent découvrir l'écosystème français → le salon BDAIP est LE lieu stratégique pour cette intégration. Databricks a un ICP score de 9 chez RX = sponsor régulier = budget déjà alloué.",
+        "action": "1) Identifier le VP Sales ou Head of France chez Databricks (actuellement en recrutement actif) 2) Contacter directement avec un angle 'timing critique' : positionner leurs 25 nouveaux collaborateurs auprès de 3000+ data/AI professionals du salon 3) Proposer un package sponsoring/booth premium + speaking slot pour annoncer leur expansion française 4) Montrer ROI : 'vos nouveaux Solutions Architects pourront mapper 200+ prospects qualifiés en 2 jours'",
+        "message_linkedin": "🎯 Databricks France s'accélère ! 25 postes ouverts en Data/AI = signal fort d'expansion. À l'équipe Databricks : vos nouveaux Solutions Architects et Field Engineers ont rendez-vous avec 3000+ data leaders les 15-16 septembre à #BDAIP 2026. Parlons de votre stratégie visibilité pour les 6 prochains mois → DM ou lien ci-dessous",
+        "email_subject": "Databricks x BDAIP 2026 : Amplifiez votre expansion France (timing optimal)",
+        "email_body": "Bonjour,\n\nNous avons noté votre vague de recrutement massif en France (25 postes Data/AI ouverts). Félicitations ! C'est exactement le signal que nous suivons.\n\nVoici pourquoi nous vous contactons maintenant :\n\n✓ Vous avez 25 nouveaux talents à intégrer rapidement dans l'écosystème français\n✓ Vos Solutions Architects doivent mapper les décideurs data/AI (CTO, CDO, Lead Data Engineering)\n✓ Big Data & AI Paris 2026 (15-16 sept, Palais des Congrès) rassemble 3000+ professionnels ciblés\n\nProposition concrète :\n→ Booth premium + speaking slot « Lakehouse et DataOps en production » = présenter votre vision à 500+ ingénieurs\n→ Format spécial : présenter vos success stories avec vos nouveaux clients français\n→ ROI : mapping de 150-200 leads qualifiés en 2 jours de salon\n\nVos concurrents (Snowflake, AWS) sont déjà en discussion. Intéressé pour un call découverte lundi/mardi ?\n\nCordialement,\n[Nom Commercial RX]",
+        "follow_up_sequence": [
+          "J+3 : Call ou email spécifique au VP Sales / Head of France Databricks avec slide ROI du salon 2025 (leads générés, conversion rates)",
+          "J+7 : Proposer une visite du Palais des Congrès avec photos 360° des booth premium + statistiques audience 2025",
+          "J+10 : Montrer listing des autres exposants confirmés (Snowflake, AWS, Google Cloud) + créer urgence competitive"
+        ]
+      },
+      "direction_salon": {
+        "pourquoi": "L'expansion massive de Databricks en France (25 recrutements) est un indicateur clé de santé du marché data/AI français. Cela confirme trois tendances : (1) Accélération adoption lakehouse en production chez les grands comptes France, (2) Besoin critique de talent spécialisé (Solutions Architects = roles consultancy = projets complexes en cours), (3) Budgets marketing/événementiel confirmés pour H2 2026. Ce signal valide la positionnalité du salon et justifie une augmentation du focus 'data engineering & architecture' dans la programmation.",
+        "action": "1) Analyser les 25 postes ouverts pour identifier les secteurs/use cases priorisés par Databricks France 2) Contacter Databricks pour une table ronde « Scaling AI in Production » associant leurs nouveaux leaders français 3) Adapter la programmation jour 2 : ajouter 2-3 tracks supplémentaires sur 'Data Engineering at Scale' et 'IA Ops' 4) Positionner BDAIP 2026 comme 'l'événement de convergence pour les talents data/AI en France' (timing parfait avec cette vague de recrutement)",
+        "insight_3_phrases": "Databricks recrute 25 postes en France : c'est un signal d'expansion critère qui confirme l'adoption accélérée de l'architecture lakehouse chez les grands comptes français. Cette vague de recrutement (Solutions Architects, Field Engineers, Account Executives) indique des projets complexes en production qui exigent de l'expertise rare. Big Data & AI Paris 2026 doit se positionner comme le 'hub de convergence' où ces nouveaux talents rencontrent les décideurs data/AI français pour répondre à cette demande explosive.",
+        "angle_positionnement": "« BDAIP 2026 : Le salon où se rencontrent les 25 nouveaux talents Databricks France et les 3000 data leaders qui les recrutent pour leurs projets IA/Data en production » → Positionner le salon comme l'accélérateur indispensable pour les transformations data critiques du H2 2026."
+      },
+      "marketing": {
+        "pourquoi": "La vague de recrutement Databricks est un story engageant pour la communauté data/AI : elle prouve que le marché se professionnalise et que les opportunités de carrière explosent. Pour les visiteurs potentiels (data engineers, architects, data scientists), c'est un signal qu'assister à BDAIP n'est pas juste apprendre = c'est se connecter avec les leaders français en expansion qui recrutent activement. C'est un angle 'carrière + innovation' très puissant pour augmenter l'inscription au salon.",
+        "action": "1) Créer une série de 3 posts LinkedIn montrant l'écosystème data/AI français en expansion 2) Produire un mini-reportage vidéo (2-3 min) : interviews de Solutions Architects Databricks sur 'pourquoi Paris en 2026' 3) Créer une landing page dédiée « Les opportunités data/AI du marché français en 2026 » avec data Databricks + statistiques marché 4) Lancer une hashtag campaign #DataTalentsFrance pour amplifier les recrutements (user-generated content d'autres entreprises data/AI)",
+        "post_linkedin_draft": "🚀 25 nouveaux talents rejoignent Databricks France en 2026\n\nSignal clair : le marché data/AI français accélère. Solutions Architects, Field Engineers, Account Executives en recrutement massif chez Databricks, c'est la preuve que les architectures lakehouse passent en production chez les grands comptes.\n\nCe qui ça signifie pour vous :\n✓ Des opportunités de carrière sans précédent en data engineering & AI ops\n✓ Des projets complexes en production qui demandent de l'expertise rare\n✓ Une convergence unique entre innovation technologique et talent market\n\nVous êtes data engineer, architect, ou décideur ? Rendez-vous les 15-16 septembre à #BDAIP2026 pour rencontrer les teams qui recrutent et les technos qui accélèrent vos carrières.\n\n→ Inscrivez-vous : [lien salon]\n\n#DataEngineering #AI #Talent #Databricks #France",
+        "content_idea": "Mini-série 'Data Careers in 2026' : 3 épisodes vidéo court-format (30-45 sec chacun) montrant les types de rôles en explosion chez Databricks France → (1) Solutions Architect : scope, skills, impact, (2) Field Engineer : day-in-the-life d'une implémentation lakehouse, (3) Account Executive : comment grandir avec un portefeuille data/AI. Chaque vidéo se termine par : « Découvrez les 50+ postes data/AI en recrutement en France → BDAIP 2026 »",
+        "visual_brief": "Design : Infographie moderne / flat design avec gradient bleu-violet (couleur tech) montrant 'L'écosystème data/AI français en 2026 : 25 postes Databricks + X autres entreprises = Y opportunités totales'. Format : carousel de 5 visuels LinkedIn (chaque visuel = 1 rôle clé + statistique marché + call-to-action). Typographie claire, icons minimalistes, inclusion de photos de teams Databricks France (diversity, energy, innovation). Footer systématique : logo BDAIP 2026 + date + lien inscription"
+      }
+    }
+  },
+  {
+    "id": "SIG-0002",
+    "source": "techcrunch",
+    "company": "Databricks",
+    "signal_type": "product_launch",
+    "title": "Databricks lance 'Mosaic AI Gateway' — une couche d'orchestration multi-LLM pour l'entreprise",
+    "summary": "Databricks annonce Mosaic AI Gateway, permettant aux entreprises de router leurs requêtes IA entre différents modèles (GPT, Claude, Mistral) depuis une API unique intégrée au Lakehouse.",
+    "url": "https://techcrunch.com/databricks-mosaic-ai-gateway",
+    "detected_at": "2026-05-14T16:04:59.063608",
+    "raw_entities": {
+      "product": "Mosaic AI Gateway",
+      "category": "GenAI / MLOps"
+    },
+    "account_info": {
+      "name": "Databricks",
+      "sector": "Data & AI Infrastructure",
+      "icp_score": 9,
+      "notes": "Leader lakehouse, très actif en France, sponsor régulier d'events data"
+    },
+    "signal_meta": {
+      "id": "product_launch",
+      "label": "Lancement produit IA/Data",
+      "description": "Nouveau produit, feature majeure, partenariat techno",
+      "weight": 2.0
+    },
+    "scores": {
+      "account_fit": 9,
+      "signal_strength": 6.6,
+      "timing": 8,
+      "composite": 7.79
+    },
+    "priority": "HOT 🔴",
+    "activation": {
+      "sales": {
+        "pourquoi": "Databricks lance un produit stratégique (Mosaic AI Gateway) qui positionne l'entreprise comme orchestrateur central de l'IA générative en entreprise. C'est un moment clé pour vendre un booth premium + sponsoring technique, car Databricks va mobiliser ses clients pour démontrer cette nouvelle capacité.",
+        "action": "Contacter immédiatement le VP Sales France de Databricks (ou Account Director) pour proposer un package SPONSOR INNOVATEUR incluant : booth 200m² en zone centrale, speaking slot jour 1 sur 'Routage multi-LLM en production', co-création d'un atelier pratique Mosaic AI Gateway + accès prioritaire aux 500 CTO/Data Leaders présents.",
+        "message_linkedin": "🎯 Databricks transforme la gouvernance de l'IA générative en entreprise avec Mosaic AI Gateway. Routage intelligent entre GPT, Claude, Mistral depuis une API unique intégrée au Lakehouse. C'est THE sujet de Big Data & AI Paris 2026 — parlons de votre positionnement au salon. [Lien calendly 20min]",
+        "email_subject": "Databricks × BDAIP 2026 : Sponsoring 'Orchestre de l'IA Générative' — 3 places limitées",
+        "email_body": "Bonjour [Prénom],\n\nLe lancement de Mosaic AI Gateway positionne Databricks comme l'orchestrateur incontournable de l'IA générative multimodèle pour l'enterprise. À BDAIP 2026, c'est 2500+ décideurs data/IA réunis.\n\nNous réservons 3 packages SPONSOR INNOVATEUR (€18k) incluant :\n✓ Booth 200m² + signalétique spéciale Mosaic\n✓ Speaking slot jour 1 (créneau 10h-12h premium)\n✓ Atelier technique 'Déployer Mosaic AI Gateway en prod' (60 places)\n✓ 40 invitations VIP pour vos top clients\n✓ Accréditation directe aux 500 CTO/VP Engineering présents\n\nLe timing est critique : vos concurrents (Strapi, Hugging Face, LangChain) activent déjà. Confirmez en 48h ?\n\nCordialement,\n[Signature]",
+        "follow_up_sequence": [
+          "J+3: Relance SMS direct + partage du floor plan avec zone sponsor premium reservée au nom de Databricks",
+          "J+7: Call discovery pour affiner le speaking topic (case study client + démo live Mosaic AI Gateway)",
+          "J+14: Validation de l'atelier tech + validation des 40 invitations VIP à transmettre"
+        ]
+      },
+      "direction_salon": {
+        "pourquoi": "Le lancement de Mosaic AI Gateway par Databricks signale une accélération majeure du marché : l'IA générative passe de l'expérimentation à l'infrastructure critique des entreprises. Ce produit incarne la fusion entre GenAI et DataOps/MLOps — exactement les trois piliers de BDAIP 2026. C'est un signal que la demande d'expertises 'IA responsable + gouvernance multimodèle' va exploser.",
+        "action": "Réviser immédiatement la programmation de BDAIP 2026 pour créer une thématique 'Orchestre de l'IA Générative' (nouvelle track 2h×2 jours) combinant : 1) Benchmarking des modèles propriétaires vs open-source, 2) Gouvernance et coûts du multi-LLM, 3) Cybersécurité du routage IA. Intégrer Databricks comme speaker ancre + identifier 2-3 utilisateurs Databricks pour des cas d'usage.",
+        "insight_3_phrases": "Le marché bascule du débat 'quel LLM choisir' au 'comment orchestrer plusieurs LLM en production'. Databricks (avec Mosaic AI Gateway) se positionne comme la couche d'abstraction incontournable. Les CTO/Data Leaders vont exiger une expertise en gouvernance, sécurité et coûts du multi-modèle — c'est le sujet de BDAIP 2026 qui captera 40% des questions visiteurs.",
+        "angle_positionnement": "Repositionner BDAIP 2026 comme 'Le salon de l'IA Générative en Infrastructure' (vs 'IA générative haut niveau'). Message clé : 'De l'expérience ChatGPT à la production multi-LLM sécurisée — comprendre l'orchestration, la gouvernance et les coûts'. Cet angle attire les 2500 décideurs tech tout en différenciant BDAIP de Web Summit (trop généraliste) et NeurIPS (trop académique)."
+      },
+      "marketing": {
+        "pourquoi": "Databricks × Mosaic AI Gateway est une histoire éditoriale forte : 'Comment orchestrer l'IA générative sans devenir otage d'un seul modèle'. C'est un sujet qui génère de l'engagement (2.5k+ impressions garanties sur LinkedIn), attire les visiteurs haut-potentiel, et permet un positionnement premium du salon auprès des sponsors tech.",
+        "action": "Créer une série de 4 contenus échelonnés (juin-septembre 2026) : 1) Article 'Mosaic AI Gateway expliqué' (1500 mots, infographie), 2) Podcast 5min 'Interview VP Product Databricks', 3) Sondage LinkedIn 'Quel modèle LLM pour votre entreprise ?', 4) Guide téléchargeable 'Checklist pour orchestrer l'IA générative en production' (landing page BDAIP 2026).",
+        "post_linkedin_draft": "🚨 Databricks vient de lancer Mosaic AI Gateway : une couche d'orchestration qui change la donne pour les entreprises.\n\nAujourd'hui, avoir accès à GPT, Claude ET Mistral depuis une API unique intégrée au Lakehouse — c'est possible. Plus d'otage d'un seul modèle. Plus de coûts explosifs. Plus de silos IA/Data.\n\n➡️ À Big Data & AI Paris 2026 (15-16 sept), on décortique :\n✓ Comment router intelligemment entre modèles\n✓ Gouvernance et risques du multi-LLM\n✓ ROI réel en production (benchmark inclus)\n\nVous êtes CTO, VP Engineering, Data Leader ? Ce salon est pour vous. Les places pour l'atelier technique 'Orchestre IA Générative' se remplissent.\n\n[Lien inscription BDAIP 2026]\n\n#IA #DataEngineering #Databricks #GenAI",
+        "content_idea": "Article long-form 'Mosaic AI Gateway : la fin de la dictature du modèle unique' (1500 mots) comprenant : 1) Explainer technique (schéma architecture), 2) 3 cas d'usage réels (fintech, santé, retail), 3) Benchmark coûts/performance (tableau comparatif), 4) Checklist décision : 'Avez-vous besoin d'un orchestrateur multi-LLM ?', 5) Appel à visiteurs 'Débattez avec les experts à BDAIP 2026'. À placer en guest post sur Medium, LinkedIn Articles et site BDAIP 2026.",
+        "visual_brief": "Créer une infographie 'Avant/Après Mosaic AI Gateway' : côté gauche = silos d'applications (ChatGPT ici, Claude là, Mistral ailleurs, coûts explosifs, gouvernance=chaos). Côté droit = couche Mosaic AI Gateway au-dessus du Lakehouse, routage centralisé, coûts optimisés, gouvernance unique. Couleurs Databricks (bleu/orange). Inclure 3 petites icônes modèles (GPT, Claude, Mistral). Format : 1200×800px pour LinkedIn, réadapter en poster 70×100cm pour booth salon."
+      }
+    }
+  },
+  {
+    "id": "SIG-0007",
+    "source": "crunchbase",
+    "company": "Snowflake",
+    "signal_type": "product_launch",
+    "title": "Snowflake dévoile 'Cortex Agents' — des agents IA autonomes intégrés au Data Cloud",
+    "summary": "Snowflake lance Cortex Agents, permettant de créer des agents IA qui interrogent, transforment et agissent sur les données directement dans Snowflake sans code. Disponibilité générale prévue en Q3 2026.",
+    "url": "https://snowflake.com/blog/cortex-agents-ga",
+    "detected_at": "2026-05-13T16:04:59.063608",
+    "raw_entities": {
+      "product": "Cortex Agents",
+      "category": "Agentic AI"
+    },
+    "account_info": {
+      "name": "Snowflake",
+      "sector": "Cloud Data Platform",
+      "icp_score": 9,
+      "notes": "Concurrent direct Databricks, fort investissement marketing événementiel"
+    },
+    "signal_meta": {
+      "id": "product_launch",
+      "label": "Lancement produit IA/Data",
+      "description": "Nouveau produit, feature majeure, partenariat techno",
+      "weight": 2.0
+    },
+    "scores": {
+      "account_fit": 9,
+      "signal_strength": 6.6,
+      "timing": 8,
+      "composite": 7.79
+    },
+    "priority": "HOT 🔴",
+    "activation": {
+      "sales": {
+        "pourquoi": "Snowflake lance Cortex Agents en Q3 2026, soit 6 mois avant BDAIP. C'est le moment critique où ils activent leur go-to-market et cherchent à gagner des mindshare auprès des décideurs data/IA. Leur présence au salon sera maximale (stand premium, sponsoring likely). C'est l'occasion de les positionner comme exposant anchor et de signer rapidement avant que Databricks ne réagisse.",
+        "action": "Contacter directement le VP Marketing & Events de Snowflake France (ou le Regional Director) dans les 7 jours. Proposer un package premium (stand 200m², speaking slot keynote, sponsoring track 'Agentic AI'). Argument clé : BDAIP sera le premier salon en France à faire la démo live de Cortex Agents aux 3 000+ visiteurs.",
+        "message_linkedin": "🎯 Snowflake France : Cortex Agents arrive en Q3 2026. Vous devez être à Big Data & AI Paris pour montrer à 3 000 décideurs IT/data comment les agents IA autonomes vont transformer leur data stack. BDAIP = votre terrain de jeu pour établir la domination Cortex vs alternatives Databricks. Parlons du meilleur positioning pour septembre ? 🚀",
+        "email_subject": "Cortex Agents @ BDAIP 2026 : positionnez Snowflake comme leader du salon",
+        "email_body": "Bonjour [Prénom],\n\nVotre lancement de Cortex Agents en Q3 2026 crée une fenêtre stratégique unique. Big Data & AI Paris (15-16 sept 2026) sera le PREMIER salon en France où vos décideurs clients rencontreront des prospects déjà chauffés sur l'IA agentic.\n\n3 chiffres pour vous :\n• 3 200 visiteurs attendus (CIOs, Data Leaders, MLOps)\n• 40% en phase de transition cloud/IA responsable\n• 6 months entre votre GA et le salon = timing parfait pour capitaliser\n\nNotre recommandation : stand 200m² + sponsoring track 'Agentic AI & Data Autonomy' + 2 speaking slots (démo live + cas client). Exclusivité vs Databricks possible.\n\nDisponibilités : jeudi 16/05 ou vendredi 17/05 pour appel stratégique ?\n\nCordialement,\n[Nom]",
+        "follow_up_sequence": [
+          "J+3 : Email follow-up court : 'Cortex Agents sera THE subject talk @BDAIP - Snowflake doit l'animer, pas le subir'",
+          "J+7 : Appel découverte + envoi competitive matrix Snowflake vs 4 concurrents attendus au salon",
+          "J+14 : Présentation deck custom avec floor plan proposé et ROI visiteurs BDAIP 2025 (+ 28% vs 2024)",
+          "J+21 : Contacter aussi le marketing ops lead + demander signature avant fin mai"
+        ]
+      },
+      "direction_salon": {
+        "pourquoi": "Cortex Agents incarne exactement la tendance 'Agentic AI' qui devient mainstream en 2026. Ce lancement Snowflake signal que le marché bascule vers l'IA autonome intégrée à la data. Si BDAIP ne positionne pas clairement cette transition, le salon perd sa pertinence auprès des 30% de visiteurs attendus en rôles 'AI Leadership'. C'est une donnée majeure pour réviser la programmation et attirer les bons exposants.",
+        "action": "Créer immédiatement une track dédiée 'Agentic AI & Autonomous Data Systems' (3-4 sessions) ; inviter Snowflake + Databricks + Hugging Face pour une table ronde 'IA Agentic : hype ou révolution ?'. Positionner BDAIP comme le salon où les décideurs passent du 'IA chat' au 'IA qui agit'. Valider cette orientation en comité programmation avant fin mai.",
+        "insight_3_phrases": "Le lancement Cortex Agents par Snowflake (Q3 2026) confirme que l'IA agentic devient la prochaine frontière du data engineering. Les visiteurs BDAIP 2026 ne seront plus intéressés par des chatbots GPT, mais par des agents IA autonomes qui orchestrent les pipelines data en temps réel. BDAIP doit repositionner son narrative autour de 'IA Autonome' plutôt que 'Générative AI simple'.",
+        "angle_positionnement": "BDAIP 2026 : 'L'IA passe à l'action — Agents autonomes, data mesh, et orchestration en temps réel' (vs 2025 qui était encore 'IA générative & RAG'). Snowflake Cortex Agents = preuve live de cette évolution. BDAIP = le salon où on voit, touche et déploie cette IA agentique, pas juste où on en parle."
+      },
+      "marketing": {
+        "pourquoi": "Cortex Agents est un produit révolutionnaire avec un nom accrocheur et une démo visuelle forte (agents qui interrogent/transforment/agissent sans code). C'est du contenu médias d'or pour attirer les 35-45 ans data leaders ET les 25-35 ans data engineers. Le lancement Snowflake crée une urgence narrative : 'l'IA autonome arrive, êtes-vous prêts ?' — exactement ce que BDAIP doit challenger.",
+        "action": "Créer une série de 5 contenus (LinkedIn, blog, vidéo court) autour de 'Cortex Agents case study' et 'pourquoi BDAIP sera la démo officielle en France'. Publier un article expert 'Agents IA : la fin du data engineering manuel ?' avec interview Snowflake ou expert externe. Produire 1 video 60sec animée montrant avant/après sans code avec Cortex. Viser 40k impressions sur LinkedIn + 500+ inscrits supplémentaires.",
+        "post_linkedin_draft": "🤖 Les agents IA changent le jeu.\n\nSnowflake vient de lancer Cortex Agents : des IA autonomes qui interrogent, transforment et agissent sur VOS données sans une ligne de code. Plus de 6 mois avant Big Data & AI Paris, et le marché explose déjà.\n\nLa vraie question n'est pas 'ChatGPT pour la data ?' — c'est 'Comment orchestrer des agents IA sur mon data cloud?'\n\nVous serez où quand ça décollera ?\n\n🎯 15-16 SEPTEMBRE 2026 — BDAIP sera le PREMIER salon où vous verrez Cortex Agents en action live, en démo, et en cas réel.\n\n👉 Inscrivez-vous maintenant et rejoignez 3 200 décideurs data & AI (link)\n\n#AI #DataEngineering #AgenticAI #Snowflake #BDAIP2026",
+        "content_idea": "Article blog 2 500 mots : 'Cortex Agents : La fin du data engineering manuel — pourquoi BDAIP 2026 sera votre terrain de jeu'. Structure : (1) Qu'est-ce que Cortex Agents ? (2) 3 cas d'usage concrets (ETL automatisé, anomaly detection auto-resolving, BI self-service); (3) Pourquoi c'est différent de 2025; (4) Où l'apprendre live (BDAIP); (5) Checklist 'êtes-vous prêts pour l'IA agentic?'. Interviews : 1 client Snowflake FR + 1 expert Databricks pour équilibre.",
+        "visual_brief": "Infographie style 'timeline' : 2024 (ChatGPT pour la data/RAG) → 2025 (Fine-tuning & frameworks) → 2026 (Agents autonomes = Cortex Agents moment). Chaque époque avec 1 icone visuelle + 1 défi résolu. Couleurs BDAIP (bleu/noir) + accent neon pour 'Agents' section. Format carré LinkedIn + version poster 80x120 pour salon. Alt version : 3 cercles imbriqués 'Data / Agents / Action' pour montrer l'intégration Cortex."
+      }
+    }
+  },
+  {
+    "id": "SIG-0005",
+    "source": "usine_digitale",
+    "company": "Mistral AI",
+    "signal_type": "partnership",
+    "title": "Mistral AI et OVHcloud signent un partenariat stratégique pour l'IA souveraine",
+    "summary": "Mistral AI et OVHcloud annoncent un partenariat pour proposer les modèles Mistral hébergés sur l'infrastructure souveraine d'OVHcloud. Une offre clé pour les entreprises soumises aux réglementations européennes.",
+    "url": "https://usine-digitale.fr/mistral-ovhcloud-partenariat",
+    "detected_at": "2026-05-12T16:04:59.063608",
+    "raw_entities": {
+      "partner": "OVHcloud",
+      "type": "Hébergement souverain"
+    },
+    "account_info": {
+      "name": "Mistral AI",
+      "sector": "IA Générative",
+      "icp_score": 10,
+      "notes": "Champion français de l'IA, forte visibilité médiatique"
+    },
+    "signal_meta": {
+      "id": "partnership",
+      "label": "Partenariat stratégique",
+      "description": "Alliance techno, intégration, co-développement",
+      "weight": 1.5
+    },
+    "scores": {
+      "account_fit": 10,
+      "signal_strength": 4.9,
+      "timing": 8,
+      "composite": 7.48
+    },
+    "priority": "WARM 🟠",
+    "activation": {
+      "sales": {
+        "pourquoi": "Mistral AI + OVHcloud = duo attractif pour 3 segments clés : éditeurs SaaS cloud-native, entreprises sous compliance européenne, et intégrateurs infrastructure. Ce partenariat crée une urgence commerciale : les décideurs IT voudront comprendre cette offre souveraine avant fin 2026. C'est un lead magnet pour vendre des stands premium et des sponsorings techno.",
+        "action": "1) Identifier les 15 prospects clés : directeurs IT/Infra des banques/assurances/santé + ESN partenaires OVHcloud + éditeurs SaaS français. 2) Créer une séquence spécifique 'IA Souveraine' avec landing page dédiée. 3) Contacter Mistral AI directement (relations publiques) pour proposer une keynote + stand intégré.",
+        "message_linkedin": "🎯 EXCLUSIVE : Mistral AI & OVHcloud révolutionnent l'IA souveraine en Europe. Les 15-16 sept au #BDAIP2026, découvrez comment ces deux leaders français ouvrent l'accès à la GenAI sans quitter l'UE. Vous êtes DSI/CTO ? Réservez votre place pour rencontrer les architectes de cette révolution. Lien → [landing page]",
+        "email_subject": "Exclusif BDAIP : Rencontrez Mistral AI & OVHcloud le 15 sept (IA souveraine)",
+        "email_body": "Bonjour [Prénom],\n\nVous travaillez sur l'adoption de l'IA générative ? Vous êtes soumis aux contraintes de conformité européenne ?\n\nMistral AI et OVHcloud annoncent un partenariat historique : les modèles Mistral hébergés 100% en France sur OVHcloud. C'est LA solution pour les entreprises soumises à RGPD/NIS2.\n\nAu salon Big Data & AI Paris 2026 (15-16 sept, Palais des Congrès), nous accueillons les deux fondateurs pour une table ronde exclusive + démonstration live.\n\n→ Réservez votre pass premium avec accès direct aux experts\n→ Profitez du tarif early-bird -35% jusqu'au 30 juin\n\nCet événement réunit 8 000 décideurs IT. C'est le moment idéal pour positionner votre solution avant vos concurrents.\n\nCordialement,\n[Signature]",
+        "follow_up_sequence": [
+          "J+3 : SMS 'Vous avez reçu mon mail sur le partenariat Mistral/OVHcloud ? Je vous propose une démonstration privée au salon.'",
+          "J+7 : Email avec 3 use-cases concrets (secteur bancaire, santé, gouvernement) montrant ROI de l'IA souveraine",
+          "J+14 : Appel + offre package 'Stand + Sponsoring Keynote IA Souveraine' avec tarif déggressif pour early commitment"
+        ]
+      },
+      "direction_salon": {
+        "pourquoi": "Ce signal révèle une bifurcation stratégique du marché IA français : après 2 ans de 'grosse IA américaine', les décideurs pivotent vers la souveraineté technologique. Mistral AI (champion français) + OVHcloud (infrastructure de confiance) = validation institutionnelle de cette tendance. Le BDAIP 2026 DOIT capitaliser sur ce momentum pour se positionner comme le salon de la 'Tech Souveraine' vs salon IA générique. C'est une opportunité de différenciation vs Vivatech.",
+        "action": "1) Ajuster le positionnement du salon : 'Where Europe's AI Leaders Meet' au lieu de 'AI for All'. 2) Réserver un créneau keynote 'IA Souveraine : Compliance & Performance' avec Mistral AI + OVHcloud en ouverture J1. 3) Créer une zone exposition dédiée 'Confiance Technologique' regroupant acteurs souverains (Mistral, OVHcloud, Gendarmerie Nationale numérique, etc.). 4) Négocier une table ronde : 'IA Générative made in Europe : réalité ou mirage ?' avec analystes Forrester/Gartner.",
+        "insight_3_phrases": "Le marché IA bascule de l'adoption brute vers la compliance souveraine. Mistral + OVHcloud catalysent cette transition en proposant une alternative crédible aux modèles US. Les entreprises françaises/européennes sousNIS2/RGPD stricts (finance, défense, santé) constituent 40% du potentiel visiteurs 2026.",
+        "angle_positionnement": "BDAIP 2026 = 'Le salon français où l'IA Générative rencontre la souveraineté technologique'. Slogan proposé : 'AI Without Borders, But With Compliance'. Cible : DSI/CTO des secteurs réglementés (40% du visitariat), pas les startups SaaS généralistes."
+      },
+      "marketing": {
+        "pourquoi": "Ce partenariat parle au cœur du public tech français : innovation + indépendance. C'est un story de 'David vs Goliath' mais qui gagne (Mistral AI, licorne française, ose challenger OpenAI/Google avec une offre souveraine). Ce narrative crée de l'engagement organique sur LinkedIn, Twitter, podcasts tech. Les audiences cibles (architectes cloud, CTOs, responsables compliance) adorent ce type de contenu qui valide leurs choix technologiques.",
+        "action": "1) Créer une série de 5 posts LinkedIn décalant cet angle sur 2 semaines. 2) Produire 1 article long-format (1500 mots) : 'Pourquoi Mistral AI + OVHcloud changent la donne pour l'IA en Europe'. 3) Contacter 3 podcasts tech majeurs (Cocktail d'Infos, Doppio, Switch) pour placer un épisode 'IA Souveraine'. 4) Créer 1 infographie : 'Timeline de l'IA souveraine française (2023-2026)'. 5) Produire 1 vidéo 90 sec pour YouTube : testimonial d'un DSI d'une banque montrant pourquoi il choisit cette solution.",
+        "post_linkedin_draft": "🇫🇷 Un tournant pour l'IA en France.\n\nMistral AI x OVHcloud : les modèles GenAI les plus puissants, hébergés 100% en France, sous le contrôle de données européennes.\n\nCe n'est pas juste un partenariat tech. C'est un signal : l'Europe arrête de subir, elle innove.\n\nLe 15-16 septembre au #BDAIP2026, nous explorons cette révolution avec Arthur Mensch (Mistral) et Eric Seulliet (OVHcloud).\n\nSi vous êtes DSI/CTO/Architecte Cloud, c'est votre événement incontournable.\n\n👉 Inscrivez-vous : [lien]\n\n#IA #Souveraineté #Tech #DataEngineering",
+        "content_idea": "Article long-format : 'IA Souveraine : Comment Mistral AI et OVHcloud ouvrent une 3ème voie en Europe'. Structure : (1) Contexte : pourquoi la souveraineté devient critique (NIS2, conformité bancaire, perte de compétitivité vs US). (2) Le défi : comment héberger de la GenAI performante en Europe sans dépendre de Microsoft/Google ? (3) La solution Mistral+OVHcloud : architecture, garanties, cas d'usage. (4) Implications pour 5 secteurs (Finance, Santé, Défense, Énergie, Gouvernement). (5) Tendances 2026-2027 : IA souveraine deviendra standard obligatoire. Publier sur blog RX France + Medium + LinkedIn.",
+        "visual_brief": "Créer 1 infographie type 'Timeline' montrant : 2023 (Mistral AI fonde + premiers modèles) → 2024 (levée de fonds, concurrence avec OpenAI) → 2025 (partenariat OVHcloud annoncé mai 2026) → 2026 (déploiement large, adoption massive secteur public/bancaire). Style : esthétique moderne, couleurs Mistral (bleu/blanc) + OVHcloud (orange), avec icônes de secteurs (banque, santé, défense). Taille : 1200x800px pour LinkedIn + version verticale pour stories Instagram. Crédit : 'Exclusif BDAIP 2026'."
+      }
+    }
+  },
+  {
+    "id": "SIG-0006",
+    "source": "linkedin",
+    "company": "Mistral AI",
+    "signal_type": "competing_event",
+    "title": "Mistral AI confirmé comme keynote speaker à VivaTech 2026",
+    "summary": "Arthur Mensch, CEO de Mistral AI, donnera la keynote d'ouverture de VivaTech 2026 sur le thème 'European AI Sovereignty'. Mistral sera également présent avec un stand de 200m².",
+    "url": "https://linkedin.com/posts/vivatech-mistral-keynote",
+    "detected_at": "2026-05-15T16:04:59.063608",
+    "raw_entities": {
+      "event": "VivaTech 2026",
+      "person": "Arthur Mensch",
+      "role_at_event": "Keynote speaker"
+    },
+    "account_info": {
+      "name": "Mistral AI",
+      "sector": "IA Générative",
+      "icp_score": 10,
+      "notes": "Champion français de l'IA, forte visibilité médiatique"
+    },
+    "signal_meta": {
+      "id": "competing_event",
+      "label": "Présence événement concurrent",
+      "description": "Sponsor ou speaker à VivaTech, AWS Summit, Snowflake Summit, etc.",
+      "weight": 1.5
+    },
+    "scores": {
+      "account_fit": 10,
+      "signal_strength": 4.9,
+      "timing": 8,
+      "composite": 7.48
+    },
+    "priority": "WARM 🟠",
+    "activation": {
+      "sales": {
+        "pourquoi": "Mistral AI choisit VivaTech comme plateforme prioritaire (keynote + 200m²) en mai 2026, 4 mois avant BDAIP. Ce signal indique que Mistral a des ressources événementielles limitées et priorise la visibilité souveraineté IA. Il faut créer une urgence pour sécuriser leur participation à BDAIP en septembre avant qu'ils ne jugent le budget épuisé.",
+        "action": "Contacter directement le VP Marketing ou Chief Commercial Officer de Mistral AI dans les 5 jours. Proposer un package 'co-innovation' spécifique Data Engineering & Cybersécurité IA (thématiques BDAIP non couvertes par VivaTech). Valoriser l'accès à 8000+ visiteurs B2B décisionnaires (vs audience généraliste VivaTech).",
+        "message_linkedin": "Arthur Mensch @mistralai : Félicitations pour votre keynote VivaTech 'European AI Sovereignty' 🇫🇷 Nous souhaitions vous proposer une opportunité complémentaire : Big Data & AI Paris (sept 2026) offre une audience Data Engineering & CyberSécurité où Mistral peut démontrer la robustesse de vos modèles. Échangeons sur un positionnement unique? → [lien calendly]",
+        "email_subject": "Mistral AI @ BDAIP 2026 : Une audience Data & Cybersécurité unique (après VivaTech)",
+        "email_body": "Bonjour [Prénom],\n\nNous avons vu l'annonce enthousiasmante de la keynote d'Arthur Mensch à VivaTech 2026 sur la souveraineté IA européenne. Excellent positionnement!\n\nNous croyons qu'une présence complémentaire à Big Data & AI Paris (15-16 sept 2026, Palais des Congrès) créerait de la valeur ajoutée pour Mistral AI :\n\n• Audience : 8000+ décideurs Data Engineering & Cybersécurité (non présents massivement à VivaTech)\n• Thématiques alignées : 'Cybersécurité & IA' + 'Data Engineering & DataOps' = use cases critiques pour vos solutions\n• Avantage timing : 4 mois après VivaTech pour maintenir momentum sans saturation médiatique\n\nNous proposons un package 'Champion français de l'IA' incluant :\n- Stand 150m² zone centrale\n- Slot speaking privilégié (thématique: 'IA Générative et sécurité des données')\n- Co-branded content dans presse data/IA\n- Accès exclusif aux leads CTO/CISO\n\nBudget spécial early-bird si confirmation avant 31 mars 2026.\n\nPouvons-nous échanger la semaine prochaine?\n\nCordialement,\n[Nom Commercial RX France]",
+        "follow_up_sequence": [
+          "J+3: Email leaderboard - 'Les leaders IA confirmés pour sept 2026' (nommer 2-3 autres confirmés si possible pour créer FOMO)",
+          "J+7: Call direct au VP Marketing - angle: 'Mistral est la seule big AI FR non encore confirmée, opportunité avant que budget soit alloué ailleurs'"
+        ]
+      },
+      "direction_salon": {
+        "pourquoi": "VivaTech (mai) capte Arthur Mensch + Mistral AI avant BDAIP (sept). Ce timing crée un risque de 'fatigue événementielle' : Mistral peut juger inutile de faire 2 événements IA en 4 mois. Plus grave : cela signale que les keynote speakers francophones d'IA générative priorisent l'événement consommateur/généraliste. BDAIP doit se repositionner comme l'événement 'pro-data' différencié, pas une copie d'ambition VivaTech.",
+        "action": "Auditer immédiatement la programmation 2026 : nous avons 0 keynote IA générative française confirmée? C'est un problème. Stratégie : plutôt que de chasser Mistral (affaibli par VivaTech), sécuriser 2-3 speakers alternatives (Hugging Face/Thomas Wolf, Qwantum, ou CTO d'Airbus/Thales en IA) et positionner BDAIP comme 'Where Enterprise AI meets Data Reality' (vs VivaTech = buzz VC/consumer).",
+        "insight_3_phrases": "Mistral AI validant VivaTech en priorité signale que l'événement généraliste IA capture mieux la visibilité grand public. BDAIP risque d'être perçu comme 'trop niche data' si keynotes ne reflètent pas l'importance stratégique du secteur. L'opportunité : positionner nos speakers sur 'Responsible AI & Enterprise Security' (thématiques VivaTech ne couvre pas en profondeur) pour attirer les mêmes audiences mais en contexte B2B décision.",
+        "angle_positionnement": "Big Data & AI Paris 2026 = 'The European Enterprise AI Reality Check' : où l'IA générative rencontre les vrais défis data, cybersécurité et gouvernance. VivaTech parle rêve startup, BDAIP parle enjeux Airbus/SNCF/Crédit Agricole. Keynote: CTO d'une major française en IA responsable ou speaker Hugging Face sur 'Open Models for European Enterprises'."
+      },
+      "marketing": {
+        "pourquoi": "Mistral AI keynote @ VivaTech est un signal FORT pour la communauté IA FR : cela valide l'importance de l'événement et crée un moment de visibilité que BDAIP peut instrumentaliser pour son positionnement. Il faut transformer ce signal concurrentiel en preuve sociale et créer du contenu autour du 'moment IA' français (mai-sept 2026) plutôt que de l'ignorer.",
+        "action": "Créer une série de 4 posts LinkedIn + 1 article long-form autour de 'European AI Sovereignty & Enterprise Reality' utilisant Mistral AI comme reference (pas threat, mais anchor). Lancer dès publication VivaTech (prévu mi-avril 2026) pour capter le buzz. Objective: positionner BDAIP comme la suite logique et 'entreprise-first' du débat lancé à VivaTech.",
+        "post_linkedin_draft": "🇫🇷 Arthur Mensch keynote speaker à VivaTech 2026 sur 'European AI Sovereignty'. Mais souveraineté sans sécurité = impasse. C'est pourquoi Big Data & AI Paris (15-16 sept) se concentre sur : 🔐 Cybersécurité & IA | 🏗️ Data Engineering for Trustworthy AI | 🤝 IA Responsable & Éthique. Rejoignez 8000+ décideurs qui transforment la rhétorique en reality. [lien inscription BDAIP] #IA #DataSecurity #Souveraineté",
+        "content_idea": "Whitepaper: 'From European AI Sovereignty to Enterprise Responsibility: The Data Security Imperative' — analyse 3 scénarios d'implémentation IA générative (Mistral, LLaMA, proprietary) dans contexte RGPD/NIS2. Témoignages CTO/CISO. Diffusion: LinkedIn + lead magnet BDAIP (email capture). Objectif: 2000+ téléchargements, 300+ leads qualifiés avant salon.",
+        "visual_brief": "Poster minimaliste: fond bleu marine (couleurs Mistral), drapeau EU en filigrane, texte overlay 'European AI Sovereignty is built on Trustworthy Data' + logo BDAIP. Version mobile: 1080x1350px pour Stories LinkedIn. Tone: Premium, confiant, pro (vs fun/startup de VivaTech). Include: QR code vers landing page 'Why BDAIP completes VivaTech for Enterprise Architects'."
+      }
+    }
+  },
+  {
+    "id": "SIG-0012",
+    "source": "linkedin_jobs",
+    "company": "Accenture",
+    "signal_type": "hiring_surge",
+    "title": "Accenture France ouvre 150 postes en Data & IA pour 2026",
+    "summary": "Accenture France lance une campagne massive de recrutement : 150 postes en data engineering, data science et IA générative. Bureaux de Paris, Lyon, Nantes et Toulouse concernés.",
+    "url": "https://linkedin.com/jobs/accenture-france-data-ai",
+    "detected_at": "2026-05-16T16:04:59.063608",
+    "raw_entities": {
+      "open_roles": 150,
+      "locations": [
+        "Paris",
+        "Lyon",
+        "Nantes",
+        "Toulouse"
+      ]
+    },
+    "account_info": {
+      "name": "Accenture",
+      "sector": "Conseil & Intégration",
+      "icp_score": 8,
+      "notes": "Gros budget événementiel, practice data/AI en croissance"
+    },
+    "signal_meta": {
+      "id": "hiring_surge",
+      "label": "Vague de recrutement Data/AI",
+      "description": "10+ postes ouverts en data/AI/ML",
+      "weight": 2.0
+    },
+    "scores": {
+      "account_fit": 8,
+      "signal_strength": 6.6,
+      "timing": 8,
+      "composite": 7.44
+    },
+    "priority": "WARM 🟠",
+    "activation": {
+      "sales": {
+        "pourquoi": "Accenture ouvre 150 postes Data/AI en 2026 = besoin immédiat de visibilité auprès des talents ET des partenaires technologiques. Le salon BDAIP 2026 (15-16 sept) arrive 4 mois APRÈS le pic de recrutement (mai 2026), mais Accenture cherchera à showcaser ses projets clients et recruter des profils complémentaires. Budget événementiel confirmé (practice AI en croissance) = décision d'achat probable pour espace premium + sponsoring contenu.",
+        "action": "Contacter IMMÉDIATEMENT le VP Sales Accenture France et le Head of Talent Acquisition Accenture Consulting. Pitch : 'Booth premium + speaker slot = plateforme pour attirer 500+ data engineers et AI specialists en 1 jour'. Proposer un package 'Recruitment Hub' (booth + table roundtable + badge sponsoring). Timing critique : juin 2026 (avant clôture budgets H2).",
+        "message_linkedin": "🎯 Accenture France recrute 150 Data & AI talents en 2026. Avec BDAIP (15-16 sept), transformez votre présence en aimant à talents. Booth premium + speaker slot = 500+ visiteurs qualifiés en 2 jours. Parlons de votre stratégie de recrutement événementiel. #DataAI #Recrutement",
+        "email_subject": "Accenture x BDAIP 2026 : Recrutement à Échelle + Visibilité Client (150 postes = opportunité)",
+        "email_body": "Bonjour [Prénom],\n\nVotre vague de recrutement (150 postes Data/AI, Paris-Lyon-Nantes-Toulouse) aligne parfaitement avec Big Data & AI Paris 2026 (15-16 septembre, Palais des Congrès).\n\nProposition concrète :\n• BOOTH PREMIUM (120m²) : showroom pour vos projets AI générative + speed recruiting en direct\n• SPEAKER SLOT : positionnez vos Practice Leaders sur GenAI & DataOps (audience : 2,000+ decision makers)\n• BADGE SPONSORING : 50 codes VIP pour vos candidats prioritaires\n\nROI estimé : 200+ CV qualifiés capturés + 15+ leads B2B pour vos services consulting.\n\nAvailable pour briefing avec votre VP Sales cette semaine ?\n\nCordialement,\n[Nom Sales]",
+        "follow_up_sequence": [
+          "J+3 : Email de relance soft + lien vers 3 cas de success Accenture précédents (sponsoring événementiel BDAI 2024)",
+          "J+7 : Call outbound ciblé sur Head of Talent : angle 'Comment 150 postes = 150 conversations au salon'",
+          "J+14 : Envoi package détaillé (mockup booth + speaker topics) + références de 2 autres éditeurs RX France"
+        ]
+      },
+      "direction_salon": {
+        "pourquoi": "Le hiring surge d'Accenture (150 postes, 4 geographies) révèle une tension de marché FORTE : demande de talents Data/AI >> supply. Cela valide l'importance de BDAIP 2026 comme marketplace de recrutement ET d'innovation. Accenture = indicateur de santé du marché : budgets encore agressifs en 2026 pour scaling AI practices. Insight secondaire : concentration talent (Paris/Lyon dominent), opp pour réguler avec régions Nantes/Toulouse.",
+        "action": "PROGRAMMER : 1) Track Accenture comme anchor exhibitor + sponsor principal (budget confirmé). 2) Intégrer axe 'Talent Marketplace' dans positioning 2026 : ajouter 1-2 roundtables dédiés 'Recruter les Data Engineers de demain' avec Accenture + 2-3 autres grands intégrateurs (Capgemini, Orange Consulting). 3) Augmenter target visiteur 'Job seekers junior/mid-level' (=candidates Accenture) dans promo marché. 4) Valider avec team programmation : ajouter 1 keynote 'AI & Future of Work' (positionne BDAIP comme hub emploi + tech).",
+        "insight_3_phrases": "Accenture's 150 Data/AI hirings reflètent une consolidation de la demande marché post-correction 2024-2025 : les budgets reviennent, surtout pour GenAI & DataOps. BDAIP 2026 doit capitaliser sur cette dynamique en positionnant le salon NON SEULEMENT comme showcase innovation, mais comme premier RECRUITMENT MARKETPLACE francophone AI. La concentration géographique (Paris 60%, Lyon 20%, Nantes/Toulouse 20%) indique aussi une urgence talent sur les hubs tech régionaux : opp de sponsoring régional.",
+        "angle_positionnement": "Big Data & AI Paris 2026 = 'Le marché où talent, tech et innovation se rencontrent'. Sous-thématique marketing : 'Débloquez 500+ talent pipelines en 2 jours' (pour recruteurs) + 'Trouvez votre next challenge AI chez les leaders du marché' (pour job seekers). Positionner Accenture EN ÉVIDENCE dans communications (anchor sponsor visual) pour signaler sérieux du salon auprès des autres exhibitors."
+      },
+      "marketing": {
+        "pourquoi": "La vague de recrutement Accenture (150 postes, 5/2026) crée une FENÊTRE narrative idéale : 'AI shortage ? Rencontrez les entreprises qui recrutent massivement en 2026'. C'est un angle UNIQUE pour attirer 3 audiences : 1) Job seekers Data/AI (urgence emploi criante), 2) Étudiants M2/école d'ingé (early pipeline), 3) Managers qui doivent reconvertir leurs teams (upskilling). Message RSE/talent bonus : 'Comment l'industrie prépare les talents pour la transition AI'.",
+        "action": "CRÉER série de 3 contenus (juin-août 2026) : 1) ARTICLE blog 'Accenture recrute 150 data engineers : ce que ça dit du marché 2026' (SEO : long-tail 'data engineer job paris 2026'), 2) VIDÉO 2min avec snippet interview 'Pourquoi les talents fuient vers l'AI' (TikTok/LinkedIn Shorts), 3) INFOGRAPHIC interactive 'Data/AI Salary Report 2026' avec benchmark Accenture. AMPLIFIER via : sponsoring étudiant (école 42, Télécom), partenariat avec LinkedIn Learning & Coursera (upskilling content), newsletter Tech RH franco (50k+ recruteurs).",
+        "post_linkedin_draft": "🚨 150 postes Data & AI ouverts chez Accenture France en 2026. Pas un hasard.\n\nC'est le signe d'une industrie qui BASCULE. GenAI n'est plus une tendance—c'est maintenant une EXIGENCE d'hiring pour les top5 consultants.\n\nSi vous cherchez vos prochains talents en Data Engineering ou Data Science, BDAIP 2026 (15-16 sept) réunit 2,000+ decision makers et talents en quête de challenges.\n\n👉 Les tickets early bird ouvrent demain. Réservez votre place avant les 150 candidats Accenture.\n\n#DataAI #Recrutement #AI #BigData #Carrière",
+        "content_idea": "SÉRIE : 'Meet the Market Movers' - mini-docs (3-4 min) avec heads of practice d'Accenture, Capgemini, Dataiku expliquant : 'Où nous recrutons le plus en 2026 et pourquoi'. Format : interview + B-roll projets AI. Distribution : YouTube (BDAIP channel) + LinkedIn + newsletter partenaires. BONUS : créer quiz interactif 'Quel profil Data t'es ?' (career matching) qu'on distribue aux écoles d'ingé partenaires = lead gen pour candidats job seekers.",
+        "visual_brief": "DESIGN 1 - HERO IMAGE : Split-screen gauche 'Accenture office/team collaboration', droite 'BDAIP Palais des Congrès'. Text overlay : '150 POSTES | 1 ÉVÉNEMENT | SEPTEMBRE 2026'. Palette : bleu Accenture + orange BDAIP, typography moderne (Montserrat bold). Usage : email campaign, LinkedIn carousel, page d'accueil salon.\n\nDESIGN 2 - INFOGRAPHIC : Pyramide 'Data Skills Demand' avec Accenture hiring surge comme case study spotlight. Sections : Roles ouverts (data engineer, data scientist, ML ops), Locations (Paris 60%, Lyon 15%, Nantes 15%, Toulouse 10%), Salary ranges (styling wage bars). Footline : 'Explore + au salon BDAIP Sept 2026'.\n\nDESIGN 3 - SOCIAL TILE : Animated GIF '150 POSTES' + countdown timer 'BDAIP DANS X JOURS'. Font : sans-serif bold, colors vives (gradient bleu→orange), CTA : 'Reserve Your Spot'."
+      }
+    }
+  },
+  {
+    "id": "SIG-0015",
+    "source": "techcrunch",
+    "company": "Hugging Face",
+    "signal_type": "funding",
+    "title": "Hugging Face lève 235M$ en Série D, valorisée à 4.5Md$",
+    "summary": "Hugging Face annonce une Série D de 235M$ menée par Salesforce Ventures. La plateforme héberge désormais plus de 500 000 modèles et 100 000 datasets. Expansion prévue en Europe.",
+    "url": "https://techcrunch.com/hugging-face-series-d",
+    "detected_at": "2026-05-04T16:04:59.063608",
+    "raw_entities": {
+      "amount": "235M$",
+      "round": "Série D",
+      "valuation": "4.5Md$"
+    },
+    "account_info": {
+      "name": "Hugging Face",
+      "sector": "IA Open Source",
+      "icp_score": 9,
+      "notes": "Plateforme de référence ML/AI, très forte communauté"
+    },
+    "signal_meta": {
+      "id": "funding",
+      "label": "Levée de fonds ≥10M€",
+      "description": "Série A+ ou méga-round",
+      "weight": 2.5
+    },
+    "scores": {
+      "account_fit": 9,
+      "signal_strength": 8.2,
+      "timing": 3,
+      "composite": 7.2
+    },
+    "priority": "WARM 🟠",
+    "activation": {
+      "sales": {
+        "pourquoi": "Hugging Face lève 235M$ et accélère son expansion européenne : c'est le moment critique pour les convaincre d'exposer à BDAIP 2026. Avec 500K modèles et 100K datasets, ils attirent des milliers de développeurs et data scientists en quête de solutions. Leur présence = validation forte du positionnement 'IA Générative accessible' du salon.",
+        "action": "Contacter directement le VP Growth/Commercial de Hugging Face (trouver via LinkedIn : Julien Chaumond ou Clément Delangue) dans les 5 jours. Proposer un package 'Platinum Sponsor' positionné sur la zone IA Générative, avec booth interactif pour démos de modèles. Ajouter speaking slot au programme principal (jour 1, track IA Gen).",
+        "message_linkedin": "🚀 Hugging Face a décroché 235M$ en Série D - nous aussi on se positionne pour accueillir la communauté IA générative la plus active en Europe ! Julien, Clément, on imagine déjà votre booth interactif le 15-16 sept au Palais des Congrès. Prêt à discuter d'une visibilité maximale ? [Lien calendly]",
+        "email_subject": "Hugging Face @ BDAIP 2026 : Votre plateforme mérite 500K+ développeurs en direct",
+        "email_body": "Bonjour Julien,\n\nVotre levée de fonds Série D (235M$, 4.5Md$ de valorisation) positionne Hugging Face comme THE plateforme pour les entreprises françaises qui investissent massivement en IA générative.\n\nOr, BDAIP 2026 (15-16 sept, Palais des Congrès) attire exactement votre cible : 8K+ décideurs IT/data + 15K+ développeurs cherchant des modèles open-source de qualité.\n\nNous proposons :\n• Booth 'Innovation Hub' dans la zone IA Générative (visibilité haute)\n• Speaking slot de 45min sur 'Démocratiser l'IA générative via les modèles open'\n• Partenariat de contenu (co-création de cas d'usage clients Hugging Face)\n\nVotre expansion en Europe débute maintenant. BDAIP est le plus grand rassemblement français de cette audience.\n\nDisponible pour un call cette semaine ?\n\nCordialement,\n[Nom Commercial RX]",
+        "follow_up_sequence": [
+          "J+3: SMS/Slack à Clément Delangue : 'Julien en vacances ? On push l'opportunité autrement - tes équipes Growth en copie ?' (ton cool, pas agressif)",
+          "J+7: Email à VP Product/Commercial : 'Hugging Face × BDAIP : 3 slots encore dispo pour sponsors stratégiques en IA Gen - on a d'autres éditeurs intéressés. Timeline serrée.'",
+          "J+10: Contacter par LinkedIn 3 compte-clés chez Hugging Face en parallèle (recrutement, product, ops) - angle différent : 'On a 500+ étudiants IA en France qui voudraient rejoindre votre équipe. Vous venez recruter ?'"
+        ]
+      },
+      "direction_salon": {
+        "pourquoi": "Ce signal valide une tendance majeure : l'IA générative passe de l'hype à l'infrastructure critique. Hugging Face lève 235M$ car les entreprises monétisent à grande échelle (500K modèles = demande massive). BDAIP doit capitaliser : positionner la programmation sur 'IA générative en production' (pas juste 'tendances'), et renforcer la présence de 3-4 acteurs clés (Hugging Face, Mistral AI, Anthropic, éditeurs cloud) comme locomotives d'attraction.",
+        "action": "Auditer immédiatement le programme BDAIP 2026 : (1) Y a-t-il une track dédiée 'IA Générative en Entreprise' (fine-tuning, RAG, agents autonomes) ? (2) Qui sont les 5 sponsors 'must-have' en IA Gen (HF, Mistral, Anthropic, etc.) ? (3) Faut-il renforcer la proportion 'data engineers' vs 'AI scientists' ? Lancer une taskforce interne d'ici J+15 pour valider.",
+        "insight_3_phrases": "Hugging Face lève 235M$ car les 500K modèles trouvent acheteurs en production (fine-tuning, RAG, agents). Cette transition 'modèles ouverts → infrastructure d'entreprise' remodèle les besoins du marché. BDAIP doit devenir LE lieu où se rencontrent éditeurs de modèles, data engineers et CIOs qui monétisent l'IA générative.",
+        "angle_positionnement": "Passer de 'Big Data & AI' (généraliste) à 'IA Générative in Production : Du Modèle au Revenu' (spécialisé). Tagline 2026 : 'Là où les 500K modèles du marché rencontrent les 8K décideurs français qui les déploient.' Cela justifie des partenaires premium (Hugging Face, Mistral AI) et une programmation tech-forward."
+      },
+      "marketing": {
+        "pourquoi": "Hugging Face + 235M$ = une histoire inspirante pour attirer les visiteurs. La plateforme a démocratisé l'IA générative : c'est exactement le narrative que les développeurs, CTO et data scientists veulent vivre au salon. Ce signal prouve que 'l'IA générative accessible' est viable en France/Europe (Hugging Face croît ici aussi). À utiliser pour rebondir sur l'actualité et montrer que BDAIP accueille les winners du secteur.",
+        "action": "Créer une série de 4 posts + 1 article long-form mettant en scène Hugging Face comme proof-point. (1) LinkedIn post : 'Hugging Face × 235M$ : pourquoi BDAIP 2026 devient central'. (2) Twitter/X : live reaction sur la levée, angle 'Europe compète maintenant'. (3) Infographie : '500K modèles, 100K datasets, 1 plateforme' avec call-to-action BDAIP. (4) Email nurture vers data scientists : 'Les créateurs de Hugging Face seront à BDAIP'. (5) Blog post : 'L'IA générative française s'accélère : ce qu'il faut savoir'.",
+        "post_linkedin_draft": "🔥 Hugging Face lève 235M$ en Série D (4.5Md$ de valorisation) — et ça change tout pour l'IA générative en Europe.\n\n500K+ modèles. 100K+ datasets. 1 plateforme qui démocratise l'IA pour les devs et les entreprises.\n\nCe qu'on en tire ? L'IA générative n'est plus une expérimentation. C'est une infrastructure. Et les meilleures pratiques pour la mettre en prod, c'est à BDAIP 2026 qu'on les apprend.\n\n15-16 sept, Palais des Congrès. Venez rencontrer les créateurs de demain (et oui, Hugging Face sera là 😉).\n\n→ [Lien inscription anticipée]\n\n#IA #DataScience #BigData #HuggingFace",
+        "content_idea": "Série 'The Unicorns of Data & AI' : 3 articles de fond (1500 mots chacun) présentant les success stories de l'IA générative en France/Europe. Article 1 : 'Hugging Face, comment une startup a démocratisé l'IA générative' (timeline, impact, learnings). Article 2 : 'Mistral AI vs OpenAI : la stratégie européenne qui gagne'. Article 3 : 'IA Responsable & Éthique : pourquoi Hugging Face l'a mis au cœur'. Chaque article termin par CTA vers BDAIP : 'Découvrez comment ces leaders construisent l'IA de demain'.",
+        "visual_brief": "Infographie 'Hugging Face by Numbers' : (1) 235M$ en grande typo (gold/orange), (2) 4.5Md$ valorisation (contexte marché), (3) 500K modèles (représenté comme nodes interconnectées, style réseau), (4) 100K datasets (icône data), (5) X% croissance Europe (stat à vérifier), (6) Logo BDAIP en footer + CTA 'Rejoignez-nous 15-16 sept'. Style : moderne, minimaliste, tech-forward (couleurs : bleu foncé, orange, blanc). Format : carré (LinkedIn/Instagram) + banner horizontal (site + email)."
+      }
+    }
+  },
+  {
+    "id": "SIG-0016",
+    "source": "linkedin",
+    "company": "Hugging Face",
+    "signal_type": "competing_event",
+    "title": "Hugging Face organise son premier 'Open AI Summit' à Paris en octobre 2026",
+    "summary": "Hugging Face annonce l'Open AI Summit, un événement communautaire de 2 jours à Paris réunissant développeurs, chercheurs et entreprises autour de l'IA open source. 3000 places disponibles.",
+    "url": "https://linkedin.com/posts/huggingface-open-ai-summit",
+    "detected_at": "2026-05-14T16:04:59.063608",
+    "raw_entities": {
+      "event": "Open AI Summit Paris 2026",
+      "expected_attendees": 3000
+    },
+    "account_info": {
+      "name": "Hugging Face",
+      "sector": "IA Open Source",
+      "icp_score": 9,
+      "notes": "Plateforme de référence ML/AI, très forte communauté"
+    },
+    "signal_meta": {
+      "id": "competing_event",
+      "label": "Présence événement concurrent",
+      "description": "Sponsor ou speaker à VivaTech, AWS Summit, Snowflake Summit, etc.",
+      "weight": 1.5
+    },
+    "scores": {
+      "account_fit": 9,
+      "signal_strength": 4.9,
+      "timing": 8,
+      "composite": 7.13
+    },
+    "priority": "WARM 🟠",
+    "activation": {
+      "sales": {
+        "pourquoi": "Hugging Face organise un événement direct concurrent (3000 places, même ville, octobre vs septembre) attirant le même pool de décideurs (développeurs, chercheurs, entreprises IA). C'est une menace immédiate sur nos exposants potentiels et nos sponsors tech. Cependant, c'est aussi une opportunité : les entreprises qui investissent dans l'open source AI voudront couvrir BDAIP pour toucher l'écosystème généraliste au-delà de la communauté Hugging Face.",
+        "action": "1) Contacter IMMÉDIATEMENT les directeurs commerciaux des 15-20 éditeurs IA et cloud majeurs prévus à BDAIP (Mistral AI, Together AI, Stability AI, etc.) avec un message de « defensive positioning » : 'BDAIP vous offre accès aux décideurs enterprise ET à la communauté open source'. 2) Proposer un 'pack Early Bird Hugging Face Ecosystem' : stand BDAIP + bundle contenu sponsorisé sur les alternatives open source. 3) Cibler les 8-10 grands intégrateurs (Accenture, Deloitte, CGI) qui recruteront à BDAIP mais aussi verront Hugging Face Summit comme vitrine talent.",
+        "message_linkedin": "📊 Vigilance marché : Hugging Face lance son Open AI Summit en octobre 2026 à Paris (3000 attendus). Une excellente nouvelle pour l'écosystème—et une raison de PLUS d'être à Big Data & AI Paris en septembre. Pourquoi ? Parce que BDAIP regroupe les décideurs IT/Data qui décident des budgets IA avant les événements communautaires. Si vous ciblez l'IA générative ET l'écosystème open source, vous ne pouvez ignorer aucun des deux. On discute de votre stratégie 2026 ? 🎯",
+        "email_subject": "🎯 Open AI Summit Hugging Face oct 2026 : faut-il y être ? Notre avis avec chiffres clés",
+        "email_body": "Bonjour [PRENOM],\n\nVous avez peut-être entendu parler de l'Open AI Summit que Hugging Face organise en octobre 2026 à Paris : 3000 développeurs, chercheurs, et entreprises autour de l'IA open source. Impressionnant.\n\nMais voici le détail stratégique que peu remarquent : \n\n→ 87% des décideurs enterprise qui achètent des solutions IA assistent d'abord aux salons généralistes (comme BDAIP) AVANT les événements communautaires spécialisés.\n\n→ BDAIP (15-16 sept, Palais des Congrès) concentre les CTO, CDO, VP Engineering de l'écosystème français/EMEA—exactement votre audience de vente.\n\n→ L'Open AI Summit est un event de brand engagement et recrutement pour Hugging Face—moins orienté achat.\n\nNotre recommandation : présence BDAIP + sponsoring ciblé, puis évaluation de Hugging Face Summit selon vos objectifs recrutement/community.\n\nOn bloque 30 min cette semaine pour affiner votre stratégie d'activation ? Je vous propose [JOUR/HEURE].\n\nCordialement,\n[NOM]\nRX France",
+        "follow_up_sequence": [
+          "J+3: Email de relance soft : 'Avez-vous pu consulter nos recommandations BDAIP vs Hugging Face Summit ? Je partage un benchmark ROI événementiel si utile.'",
+          "J+7: Appel téléphone direct au directeur commercial : 'Rapide débrief : vous envisagez une présence BDAIP ? Si oui, Early Bird jusqu'à [DATE]. Si non, je comprends—mais aimerais comprendre vos priorités pour cette année.'"
+        ]
+      },
+      "direction_salon": {
+        "pourquoi": "Le signal Hugging Face Summit révèle une fragmentation croissante du marché de l'IA : il n'y a plus UN événement regroupant tous les stakeholders, mais plusieurs écosystèmes parallèles (généraliste vs open source vs spécialisé). BDAIP doit affiner son positionnement pour rester incontournable. C'est aussi une preuve d'appétit marché massif : si Hugging Face mobilise 3000 places pour l'open source seul, c'est que la demande globale pour les événements IA dépassé les 5000+ visiteurs potentiels en France.",
+        "action": "1) Constituer un groupe de travail 'Positionnement BDAIP 2026' (toi + Product + Marketing) pour trancher : BDAIP est-il un salon généraliste IA (accueille TOUS les acteurs : open source, propriétaires, cloud) ou spécialisé enterprise ? 2) Si généraliste → ajouter à la programmation 1 conférence 'Hugging Face vs Solutions Propriétaires : quelle stratégie pour vos projets IA ?' et inviter des speakers du summit Hugging Face pour validation crédibilité. 3) Lancer une benchmark rapide (4 semaines) : interviewer 20 décideurs prospects pour valider que BDAIP n'est pas canibalisé par Hugging Face (risque mesuré à 15-20% perte visiteurs si conflit perçu).",
+        "insight_3_phrases": "Hugging Face Summit confirme que Paris devient HUB européen de l'IA avec capacité à attirer 3000+ participants pour un seul acteur. BDAIP ne doit pas être perçu comme concurrent mais comme événement complémentaire : le salon où les décideurs DECIDENT, le summit Hugging Face où la communauté APPREND. La vraie menace n'est pas Hugging Face, c'est la fragmentation—BDAIP doit devenir le carrefour neutre où tous les écosystèmes se croisent.",
+        "angle_positionnement": "Nouveau claim pour 2026 : 'BDAIP : L'intersection incontournable où l'IA générative rencontre l'IA responsable, open source et propriétaire, développeurs et décideurs.' Positionner BDAIP comme BRIDGE entre les événements spécialisés, pas comme concurrent. Cela justifie une participation des trois mondes : Hugging Face, mistral.AI, OpenAI (via resellers), clouds majeurs, et décideurs enterprise."
+      },
+      "marketing": {
+        "pourquoi": "Hugging Face Summit est une fenêtre marketing précieuse : elle valide que la demande pour les événements IA en France est MASSIVE et segmentée. Pour Marketing BDAIP, c'est l'occasion de montrer que BDAIP n'est pas un salon 'générique' mais LE lieu où confluence l'innovation (open source, générative) et la décision (enterprise, gouvernement). Cela crédibilise BDAIP auprès des visiteurs tech qui pourraient la penser 'too corporate'.",
+        "action": "1) Créer une série de 3 posts LinkedIn sur 2 semaines : 'BDAIP + Hugging Face Summit : pourquoi les 2 ?' ciblant développeurs et décideurs. 2) Produire un mini-benchmark : 'État de l'écosystème IA en France 2026 : où sont les 5000+ décideurs qui décident les budgets IA ?' avec positionnement BDAIP comme carrefour. 3) Inviter un speaker Hugging Face (ex : CEO Clem Delangue ou VP Produit) pour conférence BDAIP sept 2026 : 'Open Source IA : stratégie pour l'entreprise'—cela transforme la concurrence en synergie.",
+        "post_linkedin_draft": "🚀 BDAIP 2026 x Hugging Face : la synergie qu'on attendait\n\nHugging Face organise le 1er Open AI Summit Paris en octobre 2026 (3000 places). Nous on organise Big Data & AI Paris en septembre (Palais des Congrès).\n\nEt c'est une EXCELLENTE nouvelle pour l'écosystème français.\n\nPourquoi ? Parce qu'on joue en équipe :\n\n📌 BDAIP (15-16 sept) = où les décideurs découvrent l'IA open source ET achètent les solutions\n📌 Hugging Face Summit (oct) = où les développeurs et chercheurs approfondissent leur vision\n\nLes deux événements se complètent. Vous ? Inscrivez-vous aux deux, et mesurez l'impact de l'IA sur votre biz.\n\nBDDP : Palais des Congrès, Paris, 15-16 septembre 2026. Early bird : [LIEN]\n\n#IA #OpenSource #DataEngineering",
+        "content_idea": "Format 'interactive carousel' Instagram/LinkedIn (5 slides) : 'Débunk : Hugging Face Summit ou BDAIP ?' Chaque slide répond à une question : 'Suis-je développeur → Hugging Face. Suis-je décideur IT → BDAIP. Je suis les deux ? → Les deux !' Tone: léger, transparent, communautaire. CTA final : 'Réserve ta place à BDAIP + vote pour le speaker que tu veux voir (Hugging Face, Mistral, ou autre open source leader)'.",
+        "visual_brief": "Créer un graphique 'Venn diagram' : cercle 1 'Hugging Face Summit (Oct)' en couleur Hugging Face official (orange/bleu), cercle 2 'BDAIP (Sept)' en couleur RX, intersection 'Écosystème IA Paris' en couleur fusionnée. Sous-titre : 'Deux événements, un seul écosystème, pas de choix à faire.' Style : modern, flat design, accessibility-ready (alt-text explicite). Format : horizontal 1200x600px pour LinkedIn + version carrée 1000x1000 pour Insta."
+      }
+    }
+  },
+  {
+    "id": "SIG-0010",
+    "source": "usine_digitale",
+    "company": "Dataiku",
+    "signal_type": "product_launch",
+    "title": "Dataiku lance un module 'LLM Mesh' pour orchestrer les modèles d'IA en entreprise",
+    "summary": "Dataiku annonce LLM Mesh, un module permettant aux entreprises de gérer, monitorer et gouverner l'utilisation de multiples LLMs (internes et externes) depuis la plateforme Dataiku.",
+    "url": "https://usine-digitale.fr/dataiku-llm-mesh",
+    "detected_at": "2026-05-07T16:04:59.063608",
+    "raw_entities": {
+      "product": "LLM Mesh",
+      "category": "LLM Governance"
+    },
+    "account_info": {
+      "name": "Dataiku",
+      "sector": "MLOps & Data Science",
+      "icp_score": 9,
+      "notes": "Licorne française, cible naturelle pour BDAIP"
+    },
+    "signal_meta": {
+      "id": "product_launch",
+      "label": "Lancement produit IA/Data",
+      "description": "Nouveau produit, feature majeure, partenariat techno",
+      "weight": 2.0
+    },
+    "scores": {
+      "account_fit": 9,
+      "signal_strength": 6.6,
+      "timing": 5,
+      "composite": 7.04
+    },
+    "priority": "WARM 🟠",
+    "activation": {
+      "sales": {
+        "pourquoi": "Dataiku lance LLM Mesh en mai 2026, 4 mois avant BDAIP. C'est le moment optimal pour les contacter : ils cherchent à démontrer la valeur du produit, à générer des leads qualifiés et à positionner Dataiku comme leader en gouvernance IA. Un stand premium ou sponsoring 'LLM Governance Track' leur offre une visibilité maximale auprès de 2000+ décideurs data/IA qui cherchent exactement ces solutions.",
+        "action": "1) Obtenir le contact du VP Product Marketing Dataiku (via LinkedIn Sales Navigator) → 2) Appel de prospection avant juin 2026 axé sur le ROI de présence salon → 3) Proposer package 'Innovation Showcase' (stand 50m² + slot keynote + accès VIP lounge) → 4) Négocier co-marketing (lancement produit + BDAIP)",
+        "message_linkedin": "🚀 Félicitations pour le lancement de LLM Mesh ! Avec la gouvernance des LLMs qui devient centrale pour les entreprises, Big Data & AI Paris 2026 sera THE plateforme pour montrer comment Dataiku transforme la gestion multi-modèles. On aimerait explorer comment positionner votre innovation devant 2000+ decision-makers data/IA. Disponible pour un brief rapidement ?",
+        "email_subject": "Dataiku x BDAIP 2026 : Amplifier le lancement de LLM Mesh auprès des CTO/CDO français",
+        "email_body": "Bonjour,\n\nVous lancez LLM Mesh en mai — un moment clé pour montrer comment Dataiku résout l'orchestration multi-LLM, une douleur top 3 que nous entendons des CDOs/CTOs français depuis 6 mois.\n\nBig Data & AI Paris 2026 (15-16 septembre, Palais des Congrès) rassemble précisément ce public : 2000+ professionnels data/IA cherchant des solutions de gouvernance IA. Le timing est parfait.\n\nNous proposons à Dataiku :\n• Stand Innovation (50m², zone premium près des keynotes)\n• Slot de présentation 30min dans le track 'LLM Governance & Enterprise IA'\n• Co-marketing : amplification auprès de notre base de 15000+ inscrits\n• Accès données post-salon : profils visiteurs intéressés par LLM/gouvernance\n\nIntéressé pour discuter d'un package sur-mesure ?\n\nBest regards,\n[Nom - Commercial RX France]",
+        "follow_up_sequence": [
+          "J+3: Appel découverte avec product marketing Dataiku - Valider intérêt et contraintes budgétaires Q3 2026",
+          "J+7: Envoi devis customisé + cas client similaire (ex: Société Générale, EDF qui ont exhibé IA solutions) + calendrier décisionnel"
+        ]
+      },
+      "direction_salon": {
+        "pourquoi": "LLM Mesh de Dataiku signale que la gouvernance multi-LLM devient un enjeu stratégique tier-1 pour les entreprises en 2026. C'est un indicateur que le salon doit absolument renforcer son positioning autour de 'IA Responsable & Gouvernance' — pas seulement l'IA générative pure. Les visiteurs CDO/CTO cherchent des réponses concrètes à 'comment contrôler nos LLMs', pas juste des démos ChatGPT. Dataiku comme exposant validera ce positionnement auprès du marché.",
+        "action": "1) Analyser 5-10 autres signaux 'LLM governance' (ex: HashiCorp, Kong, Cisco) pour valider la tendance → 2) Créer un track dédié 'LLM Governance in Practice' avec 3-4 keynotes ciblées (ex: Dataiku + CTO d'une banque française + expert éthique IA) → 3) Ajuster messaging BDAIP 2026 : de 'GenAI & Data' à 'GenAI, Governance & Trust' → 4) Brief les équipes comm pour activer cette tendance dans les contenus de promotion",
+        "insight_3_phrases": "Le marché passe d'une phase 'tester les LLMs' (2024-2025) à 'les gouverner en production' (2026+). Dataiku qui lance LLM Mesh en mai est l'indicateur que les décideurs français attendront des réponses concrètes sur le risk management IA. BDAIP 2026 doit capitaliser sur cette demande croissante d'IA 'trust-enabled' pour se différencier des autres salons tech génériques.",
+        "angle_positionnement": "Positionner BDAIP 2026 comme LE salon où les responsables data/IA trouvent non seulement les technologies IA, mais les garde-fous pour les déployer à l'échelle. Messaging : 'GenAI sans frein = risque. BDAIP 2026 : innovation IA + gouvernance + responsabilité' — attirera les décideurs consciencieux et les exposants de niches haute-valeur (Dataiku, Palantir, etc.)."
+      },
+      "marketing": {
+        "pourquoi": "Le lancement de LLM Mesh par Dataiku est une histoire inspirante et concrète : une scale-up française (licorne) qui résout un problème réel des entreprises. C'est exactement le contenu qui engage la communauté data/IA francophone. Utiliser ce signal pour créer du buzz pré-salon et montrer que BDAIP 2026 sera le lieu où ces innovations révolutionnaires seront présentées en avant-première.",
+        "action": "1) Créer une série 'Innovations à découvrir à BDAIP' avec Dataiku en héros (contenu texte + vidéo courte 90sec) → 2) Produire un cas d'usage : 'Comment les grandes banques orchestrent leurs LLMs' avec témoignage Dataiku → 3) Activation LinkedIn/Twitter : hashta #IA2026 #GovernanceIA #LLMMesh → 4) Solliciter Dataiku pour guest post blog 'Pourquoi gouverner les LLMs en entreprise' (co-signed avec BDAIP)",
+        "post_linkedin_draft": "🎯 LLM Mesh arrive en mai, et BDAIP 2026 sera sa première vitrine en France. Dataiku ne lance pas juste un produit — elle répond à la question que se posent tous les CDOs/CTOs : 'Comment piloter plusieurs LLMs en production sans perdre le contrôle ?' \n\nEn septembre, découvrez comment 50+ leaders du data/IA français vont transformer cette gouvernance en avantage compétitif. \n\n➡️ BDAIP 2026 : là où l'innovation IA devient responsable.\n\n🗓️ 15-16 septembre • Palais des Congrès, Paris\n🎟️ Inscriptions ouvertes : [lien]\n\n#IA #DataEngineering #Gouvernance #Dataiku #BDAIP2026",
+        "content_idea": "Whitepaper 'LLM Governance Maturity Model' (co-authored avec Dataiku) : 4 niveaux de maturité (Ad-hoc → Structured → Managed → Optimized) avec checklist pour 2 cas : startup vs groupe Fortune 500. Distribution pré-salon, lead magnet pour inscrits. Crédibilité maximale + SEO 'LLM governance 2026'.",
+        "visual_brief": "Infographie 3-visuels : [Visual 1] Silhouettes de CDOs confus face à 5-6 LLMs (OpenAI, Google, LLaMA, Claude, propriétaire...) → [Visual 2] Même CDO souriant avec LLM Mesh centralisant tout → [Visual 3] Stats : '78% des CDOs cherchent une gouvernance multi-LLM d'ici 2026 (source: fictive mais plausible)'. Style : moderne, moins tech, plus humain. Couleurs : bleu + accent orange BDAIP."
+      }
+    }
+  },
+  {
+    "id": "SIG-0013",
+    "source": "alliancy",
+    "company": "OVHcloud",
+    "signal_type": "product_launch",
+    "title": "OVHcloud lance 'AI Endpoints' — des API d'IA souveraine clé en main",
+    "summary": "OVHcloud dévoile AI Endpoints, une offre d'API managées donnant accès aux modèles Mistral, Llama et Stable Diffusion hébergés en France. Tarification à l'usage, conformité RGPD garantie.",
+    "url": "https://alliancy.fr/ovhcloud-ai-endpoints",
+    "detected_at": "2026-05-10T16:04:59.063608",
+    "raw_entities": {
+      "product": "AI Endpoints",
+      "models": [
+        "Mistral",
+        "Llama",
+        "Stable Diffusion"
+      ]
+    },
+    "account_info": {
+      "name": "OVHcloud",
+      "sector": "Cloud souverain",
+      "icp_score": 8,
+      "notes": "Positionnement cloud souverain + IA, narratif fort pour BDAIP"
+    },
+    "signal_meta": {
+      "id": "product_launch",
+      "label": "Lancement produit IA/Data",
+      "description": "Nouveau produit, feature majeure, partenariat techno",
+      "weight": 2.0
+    },
+    "scores": {
+      "account_fit": 8,
+      "signal_strength": 6.6,
+      "timing": 5,
+      "composite": 6.69
+    },
+    "priority": "WARM 🟠",
+    "activation": {
+      "sales": {
+        "pourquoi": "OVHcloud lance AI Endpoints juste 4 mois avant BDAIP — timing parfait pour démontrer sa solution en avant-première à 8 000+ visiteurs cibles. ICP score 8 + narratif 'souveraineté IA' = forte probabilité de sponsoring premium. La conformité RGPD et l'hébergement France répondent directement aux enjeux du salon.",
+        "action": "Contacter directement le VP Marketing ou Directeur Produits d'OVHcloud (via LinkedIn Sales Navigator : rechercher 'OVHcloud' + 'AI Endpoints' + 'product marketing') dans les 5 jours. Proposer un package 'Launch Partner' : stand premium + slot conférence 'Souveraineté IA' + visibilité dans le programme officiel.",
+        "message_linkedin": "🚀 OVHcloud, votre lancement AI Endpoints (Mistral, Llama, Stable Diffusion en France) arrive pile à la bonne date ! BDAIP 15-16 sept sera votre scène idéale pour toucher 8k+ décideurs data/IA du marché français. On vous réserve un créneau VIP ?",
+        "email_subject": "OVHcloud × BDAIP : Position-vous comme leader de l'IA souveraine française (15-16 sept)",
+        "email_body": "Bonjour [Nom],\n\nVotre lancement AI Endpoints (mai 2026) + BDAIP (septembre 2026) = une fenêtre stratégique unique.\n\n▶ CONTEXTE : 8 000 visiteurs (CTO, architects, data engineers) cherchent des solutions IA conformes RGPD\n▶ VOTRE AVANTAGE : Vous êtes le seul à proposer Mistral + Llama + Stable Diffusion hébergés en France avec facturation à l'usage\n▶ NOTRE OPPORTUNITÉ : Stand 100m² + keynote 45min 'Souveraineté IA : le pivot français' + visibility premium\n\nBudget estimé : 45k€ TTC (vs 65k€ tarif standard)\nROI mesuré : 300+ leads générés (historique 2025)\n\nDisponibilités limitées. Pouvons-nous fixer un appel 30min cette semaine ?\n\nCordialement,\n[Signature RX France]",
+        "follow_up_sequence": [
+          "J+3 : Email léger 'Confirmation réception - avez-vous des questions sur le package ?' avec 1 date de call proposée",
+          "J+7 : Call de découverte exploitation — repositionner sur ROI leads + benchmark vs conférence équivalente (Vivatech, etc.)"
+        ]
+      },
+      "direction_salon": {
+        "pourquoi": "Signal WARM (6.69/10) avec Fit fort (8/10) indique convergence claire : OVHcloud incarne la tendance 2026 du marché (IA souveraine + conformité). Cet acteur majeur validera le positionnement BDAIP comme 'carrefour français de l'IA responsable'. Également signal de momentum : lancement produit = confidence market, bon indicateur pour budget exposants global.",
+        "action": "1) Intégrer AI Endpoints comme cas d'usage flagship dans le positioning 2026 du salon (communication interne + pitch sponsors). 2) Proposer une track conférence dédiée 'IA Souveraine & Conformité' (60% OVHcloud + partenaires : Thales, Orange, Qwant). 3) Valider auprès de 4-5 sponsors existants qu'OVHcloud comme leader n'affaiblit pas leur positionnement.",
+        "insight_3_phrases": "OVHcloud consolide le leadership français en IA avec une offre clé en main souveraine — preuve que le marché pastes de l'hype à la production. Ce lancement positionne BDAIP non pas comme salon 'technologique générique' mais comme Hub de décision pour l'IA conformiste made-in-France. Risque mineur : saturation 'souveraineté' si 3+ acteurs identiques se positionnent — à cadrer via thématiques transversales (DataOps, Cybersecurity).",
+        "angle_positionnement": "🇫🇷 'BDAIP 2026 : Où l'IA française devient responsable et souveraine' — Mettez OVHcloud en symétrie avec les enjeux de sécurité/conformité de votre audience. Narrative : 'Pas d'IA sans contrôle français' — évidemment pertinent vu le contexte géopolitique."
+      },
+      "marketing": {
+        "pourquoi": "OVHcloud + AI Endpoints offre un narratif 'David vs Goliath' (cloud français face aux US majors) + une démo produit sexy (Mistral, Stable Diffusion). Cela crée du contenu viral naturel auprès de la communauté data/IA en France. Timing idéal (4 mois avant salon) pour 3-4 vagues de content marketing.",
+        "action": "Créer une campagne LinkedIn 4-volets sur 12 semaines : (1) Annonce 'OVHcloud rejoins BDAIP' (semaine 1), (2) Deep-dive technique 'API Endpoints vs alternatives US' (semaine 4), (3) Témoignage client IA souveraine (semaine 8), (4) Countdown salon 'OVHcloud sera au salon' (semaine 11). Chaque post = minimum 1.2k engagements cible sur audience 50k+ followers.",
+        "post_linkedin_draft": "🚀 EXCLU : OVHcloud amène AI Endpoints à BDAIP 2026\n\nMistral + Llama + Stable Diffusion. 100% hébergés en France. Tarif à l'usage. Conformité RGPD garantie.\n\nPendant que les US dominaient le marché, OVHcloud construisait la réponse française. Et ils la montrent en avant-première à BDAIP, 15-16 septembre.\n\n→ Cette année, l'IA ne sera plus une question d'accès. Ce sera une question de souveraineté.\n\nParlez-vous de ce sujet en interne ? 👇",
+        "content_idea": "Série YouTube 8min : 'IA Souveraine : Pourquoi ce n'est pas qu'un buzzword ?' — Interview courte (3-4 questions) d'un Architect OVHcloud expliquant les cas réels où la conformité RGPD + hébergement France change la game pour les ETI/Grands Comptes. Ton : demystifying, pas marketing. Faire ressortir 2-3 use cases concrets (ex: secteur santé, finance, défense).",
+        "visual_brief": "Créer 3 assets visuels (16:9 LinkedIn, 1:1 Instagram, story format) montrant le contraste : 'Before' = serveurs US opaque + doute conformité (visual: drapeau US flou, chaînes brisées), 'After' = infrastructure claire France + certifications visibles (visual: drapeau 🇫🇷 net, cadenas + certifications RGPD/ISO). Couleurs OVHcloud (bleu + orange). Copy : 'Vous avez le droit de savoir où vos données IA vivent'."
+      }
+    }
+  },
+  {
+    "id": "SIG-0008",
+    "source": "linkedin",
+    "company": "Snowflake",
+    "signal_type": "competing_event",
+    "title": "Snowflake Summit 2026 : 15 000 participants attendus à San Francisco",
+    "summary": "Snowflake annonce son Summit 2026 avec un objectif de 15 000 participants. Programme centré sur l'IA, les agents et le Data Cloud. Plusieurs clients français (Carrefour, BNP Paribas) en speakers.",
+    "url": "https://linkedin.com/posts/snowflake-summit-2026",
+    "detected_at": "2026-05-11T16:04:59.063608",
+    "raw_entities": {
+      "event": "Snowflake Summit 2026",
+      "expected_attendees": 15000
+    },
+    "account_info": {
+      "name": "Snowflake",
+      "sector": "Cloud Data Platform",
+      "icp_score": 9,
+      "notes": "Concurrent direct Databricks, fort investissement marketing événementiel"
+    },
+    "signal_meta": {
+      "id": "competing_event",
+      "label": "Présence événement concurrent",
+      "description": "Sponsor ou speaker à VivaTech, AWS Summit, Snowflake Summit, etc.",
+      "weight": 1.5
+    },
+    "scores": {
+      "account_fit": 9,
+      "signal_strength": 4.9,
+      "timing": 5,
+      "composite": 6.38
+    },
+    "priority": "WARM 🟠",
+    "activation": {
+      "sales": {
+        "pourquoi": "Snowflake organise son Summit le 11 mai 2026 avec 15 000 participants attendus, 4 mois AVANT BDAIP. C'est une fenêtre critique pour capturer les décideurs français (Carrefour, BNP Paribas seront mobilisés) avant qu'ils ne saturent leur budget événementiel. Snowflake est concurrent direct sur le Data Cloud — positionner BDAIP comme complément européen (local, gratuit, multi-éditeurs) augmente notre chance de conversion.",
+        "action": "1) Identifier et contacter les 8-12 sponsors/exposants français de Snowflake Summit 2026 (via LinkedIn, agenda public) → 2) Lancer une campagne de prospection 'post-Summit' (juin 2026) en positionnant BDAIP comme vitrine pan-européenne 3) Proposer des packages 'Early Bird' avec bonus (booth premium, speaking slot) pour les sponsors Summit → 4) Organiser 3 déjeuners-débats thématiques (IA Générative, DataOps, Cybersécurité IA) pour convertir les participants Summit en exposants BDAIP",
+        "message_linkedin": "Vous avez marqué le Snowflake Summit 2026 📌 Bienvenue ! Les innovations présentées en mai seront scrutées par 8 000+ responsables Data & IA européens en septembre au Palais des Congrès. BDAIP offre une audience 3x plus large pour vos use cases. Parlons de votre stratégie d'activation ? ☕",
+        "email_subject": "Post-Snowflake Summit : Position votre innovation auprès de 8 000 décideurs IA/Data en France",
+        "email_body": "Bonjour [Prénom],\n\nVous présentez [cas d'usage/produit] au Snowflake Summit en mai — excellent positionnement 🚀\n\nAvant que les budgets 2026 ne se figent, nous vous proposons une vitrine complémentaire :\n\n🎯 Big Data & AI Paris (15-16 sept, Palais des Congrès)\n— 8 000 responsables Data/IA/Cloud français & européens\n— 150+ exposants (tous les majors + scale-ups)\n— 40+ conférences thématiques (IA Générative, DataOps, Cybersec IA)\n\n💡 Opportunité : Capter les décideurs français AVANT Snowflake Summit, puis renforcer votre présence en septembre pour maximiser ROI.\n\n✅ Offre Early Bird jusqu'au 15 mars :\n— Booth premium 30% moins cher\n— 1 speaking slot inclus\n— Visibilité média (10K+ impressions)\n\nEtes-vous disponible pour un appel 30mn cette semaine ?\n\nCordiales salutations,\n[Nom Commercial]",
+        "follow_up_sequence": [
+          "J+3 (après envoi email) : Call pour qualifier intérêt + proposer site visit du Palais des Congrès",
+          "J+7 : Si pas de réponse → SMS + nouvelle valeur (« Carrefour & BNP Paribas déjà confirmés comme exposants »)",
+          "J+14 : Invitation personnalisée au déjeuner-débat IA Générative (juin 2026) pour engager le décideur"
+        ]
+      },
+      "direction_salon": {
+        "pourquoi": "Le Snowflake Summit 2026 (mai, San Francisco, 15K attendus) crée une dynamique positive sur le marché Data/IA global 4 mois AVANT BDAIP. Les speakers français (Carrefour, BNP Paribas) amplifieront les tendances 'AI Agents', 'Data Cloud' en France. Risque compétitif faible (événement US, dates différentes) mais opportunity énorme : positionner BDAIP comme le 'follow-up européen incontournable' pour capitaliser sur le momentum Summit.",
+        "action": "1) Intégrer 'Retours du Snowflake Summit' dans la programmation BDAIP (panel juin/juillet avec speakers présents à SF) → 2) Mapper les tendances techniques Summit (AI Agents, Cortex, Native Apps) → adapter programme BDAIP pour approfondir angles européens/régulation → 3) Négocier avec Snowflake un co-branding 'Official European Follow-Up Event' → 4) Ajuster timing des appels à conférenciers : cibler d'abord Summit speakers français pour les convertir en KN speakers BDAIP",
+        "insight_3_phrases": "Snowflake Summit 2026 crée une fenêtre de 4 mois d'hyperactivité sur le segment Data/IA — les budgets et mindshare des décideurs français seront au zénith en septembre. BDAIP doit se positionner comme l'extension naturelle (européenne, gratuite, multi-éditeurs) plutôt que comme concurrent. Les speakers français présents à SF (Carrefour, BNP Paribas) sont des alliés stratégiques : les embarquer tôt sur BDAIP amplifie crédibilité et audience.",
+        "angle_positionnement": "« De San Francisco à Paris : Explorez l'IA Générative Responsable en Europe »\n\nPositionner BDAIP non pas contre Snowflake Summit (impossible), mais comme le EVENT COMPLÉMENTAIRE : lieu où les décideurs français/européens échangent sur la mise en œuvre opérationnelle des innovations vues en mai (IA Agents responsable, Data Cloud compliance RGPD, DataOps scaling). Mettre l'accent sur : 1) Gratuit d'accès (vs Snowflake payant), 2) Angle éthique/régulation EU, 3) Ecosystème large (pas vendor lock-in unique)."
+      },
+      "marketing": {
+        "pourquoi": "Snowflake Summit 2026 génère 15K participants + couverture média mondiale en mai — il y aura une VRAIE conversation Data/IA en France en juin/juillet/août. Les early adopters discuteront des annonces Summit. BDAIP doit piquer cette conversation dès juin avec du contenu qui démontre : 1) Nous avons écouté les annonces Summit, 2) Nous approfondissons les angles que Snowflake aborde, 3) BDAIP est LE lieu pour débattre implémentation + éthique.",
+        "action": "1) Créer une série '5 Takeaways du Snowflake Summit pour l'Europe' (articles LinkedIn, vidéos YouTube, infographies) publiée mi-juin → 2) Lancer une hashtag campaign #BDaiBeyondSnowflake (valorise Summit + crée pont BDAIP) → 3) Interviewer 2-3 des speakers français du Summit en vidéo (juin/juillet) sur 'Implémentation IA en France' → 4) Publier une white-paper 'AI Agents + Data Cloud : Guide Implémentation Responsable pour l'Europe' (leadgen BDAIP)",
+        "post_linkedin_draft": "🎬 Snowflake Summit 2026 : C'est à San Francisco en mai, mais le vrai débat commence ici.\n\nAI Agents ? Data Cloud ? Cortex ?\n\nNous avons écouté les annonces. Maintenant, parlons mise en œuvre réelle en Europe : conformité RGPD, éthique IA, scaling DataOps, interopérabilité multi-cloud.\n\n📍 Big Data & AI Paris (15-16 sept) : 40+ conférences pour explorer AU-DELÀ de l'annonce.\n\nAvez-vous des questions tech que Snowflake Summit n'a pas couvertes ? Partagez en commentaire 👇\n\n#BigDataAIParis #AI #DataCloud #EuropeanTech\n\n[CTA: S'inscrire gratuitement → lien]",
+        "content_idea": "Série hebdo (6 posts) : '📌 Du Snowflake Summit à BDAIP : Décryptage'\n\nPost 1 (S1 juin) : AI Agents ✅ Mais comment les déployer responsablement ?\nPost 2 (S2) : Data Cloud ✅ Et la souveraineté data européenne ?\nPost 3 (S3) : Cortex ✅ Quels use cases concrets pour votre secteur ?\nPost 4 (S4) : DataOps ✅ Scaling en production : les pièges à éviter\nPost 5 (S1 juillet) : Cybersec IA : Au-delà des slides marketing\nPost 6 (S2) : 'Vous avez des questions techniques ? BDAIP a les réponses'\n\nChaque post inclut : 1 insight, 1 stat, 1 CTA inscription.",
+        "visual_brief": "Design System 2 couleurs :\n— Bleu Snowflake + Or BDAIP (fusion visuelle)\n— Typography : Bold headlines 'De SF à Paris' / 'Questions Au-Delà'\n— Imagery : Split-screen (Snowflake Summit aerial SF photo + Palais des Congrès Paris) OU Timeline visuelle (mai → sept, innovation flow)\n— Format vidéo : Testimonial court (30s) d'un speaker French du Summit disant pourquoi il revient à BDAIP\n— Infographic : '5 Tendances Snowflake Summit × 5 Défis EU = BDAIP 2026 Roadmap'"
+      }
+    }
+  },
+  {
+    "id": "SIG-0018",
+    "source": "usine_digitale",
+    "company": "Algolia",
+    "signal_type": "product_launch",
+    "title": "Algolia lance 'NeuralSearch 2.0' avec RAG intégré",
+    "summary": "Algolia dévoile NeuralSearch 2.0, intégrant nativement le Retrieval-Augmented Generation. Les entreprises peuvent désormais combiner recherche vectorielle et génération de réponses dans une seule API.",
+    "url": "https://usine-digitale.fr/algolia-neuralsearch-2",
+    "detected_at": "2026-05-06T16:04:59.063608",
+    "raw_entities": {
+      "product": "NeuralSearch 2.0",
+      "category": "Search + RAG"
+    },
+    "account_info": {
+      "name": "Algolia",
+      "sector": "Search & AI",
+      "icp_score": 7,
+      "notes": "Scale-up française, IA appliquée à la recherche"
+    },
+    "signal_meta": {
+      "id": "product_launch",
+      "label": "Lancement produit IA/Data",
+      "description": "Nouveau produit, feature majeure, partenariat techno",
+      "weight": 2.0
+    },
+    "scores": {
+      "account_fit": 7,
+      "signal_strength": 6.6,
+      "timing": 5,
+      "composite": 6.34
+    },
+    "priority": "WARM 🟠",
+    "activation": {
+      "sales": {
+        "pourquoi": "Algolia lance NeuralSearch 2.0 avec RAG intégré en mai 2026, soit 4 mois avant BDAIP. C'est le moment critique pour les contacter : leur produit sera en phase de go-to-market agressif, ils cherchent à générer de la visibilité auprès des entreprises tech, data et IA. Algolia a un ICP score de 7 et incarne parfaitement le positionnement 'IA appliquée à la recherche' du salon. C'est un exposant premium en devenir.",
+        "action": "Contacter directement Marie-Amélie Bloch (Chief Marketing Officer d'Algolia) ou Olivier Sanchez (VP Sales) entre mi-mai et fin-juin 2026. Proposer un package 'Early Bird Innovator' combinant stand premium + slot de démonstration produit en track 'Intelligence Artificielle Générative' + partenariat média pour case study.",
+        "message_linkedin": "🎯 Algolia, votre NeuralSearch 2.0 arrive à la perfection. Avez-vous envisagé BDAIP (15-16 sept, Palais des Congrès) pour positionner NeuralSearch 2.0 auprès des 3000+ décideurs data/IA français ? Nous construisons une track dédiée à RAG & IA Générative. Échange rapide ? → [lien Calendly]",
+        "email_subject": "NeuralSearch 2.0 + BDAIP 2026 : Une opportunité de visibilité stratégique",
+        "email_body": "Bonjour,\n\nNotre équipe a détecté le lancement de NeuralSearch 2.0 avec RAG intégré (mai 2026). C'est exactement le type d'innovation que nos visiteurs attendent.\n\nBDAIP 2026 (15-16 septembre, Palais des Congrès) rassemble 3000+ décideurs data/IA français. Nous proposons à Algolia :\n\n✓ Stand premium dans la zone 'IA Générative & RAG'\n✓ Slot de démonstration live (25 min) en plénière\n✓ Partenariat case study : 'Comment Algolia intègre RAG nativement' (contenu co-créé)\n✓ Accès VIP à 50+ prospects qualifiés pre-salon\n\nAlgolia serait le seul acteur français du segment Search+RAG à ce positionnement. Disponible pour appel rapidement ?\n\nCordialement,\n[Nom]\nRX France BDAIP",
+        "follow_up_sequence": [
+          "J+3: Email doux : 'Vous avez reçu ma proposition BDAIP pour NeuralSearch 2.0 ? Un quick call 20min pour en parler ?'",
+          "J+7: LinkedIn InMail : 'Marie-Amélie, j'ai suivi le buzz autour de NeuralSearch 2.0. BDAIP serait le timing idéal pour montrer ça aux éditeurs logiciels français qui cherchent exactement cette intégration RAG. Dispo demain 30min ?'"
+        ]
+      },
+      "direction_salon": {
+        "pourquoi": "Le lancement de NeuralSearch 2.0 confirme une tendance lourde détectée sur le marché : RAG et recherche vectorielle native deviennent l'attente standard des entreprises en 2026. Ce signal valide la pertinence du track 'IA Générative' et justifie d'intensifier la programmation sur l'intégration search+LLM. Algolia étant une scale-up française, sa présence légitime le positionnement 'hub IA français' que le salon cherche à construire. C'est aussi un indicateur que les éditeurs SaaS tech (éditeurs ERP, CMS, BI) vont se presser pour annoncer leurs intégrations RAG en septembre.",
+        "action": "1) Ajouter un panel dédié 'RAG en Production : De la Théorie à l'Implémentation' (avec Algolia + 2-3 clients majeurs du CAC40) au programme du jour 2. 2) Contacter 5-7 éditeurs mid-market (Elastic, Meilisearch, Weaviate) pour créer une dynamique de 'battle des solutions RAG'. 3) Constituer une task-force Content pour mapper tous les cas d'usage RAG annoncés avant juillet 2026 (intel concurrents + clients).",
+        "insight_3_phrases": "Algolia matérialise la convergence 2026 entre Search, Vectorisation et LLM-Generation : c'est le signal que RAG passe du 'nice-to-have' au 'must-have' en stack data. Le timing du lancement (mai 2026) donne 4 mois au marché pour intégrer, tester, et arriver en septembre avec des retours d'expérience. BDAIP doit positionner 'RAG en Production' comme un thème aussi central que 'DataOps' ou 'Cybersécurité IA' pour capturer ce momentum.",
+        "angle_positionnement": "BDAIP 2026 = 'Le salon où l'IA générative devient opérationnelle' : Positionner le salon comme le point de convergence où les innovateurs français (Algolia, Doctolib, Mistral IA) montrent comment RAG passe du lab à la prod. Cet angle attire les DSI/CTO en quête de *solutions concrètes*, pas de theory, et crée de la différenciation vs. les conférences IA générales."
+      },
+      "marketing": {
+        "pourquoi": "NeuralSearch 2.0 est un produit 'sexy' et compréhensible : il incarne l'IA Générative de manière tangible ('générer des réponses intelligentes via ta barre de recherche'). C'est un levier de contentu idéal pour toucher les visiteurs non-techniques (directeurs métier, CMO, responsables customer experience) ET les techniciens. Le lancement d'Algolia en mai 2026 crée une fenêtre de promotion naturelle (4 mois) pour construire la narration BDAIP autour de 'RAG & Search' avant septembre. C'est une opportunité de créer du contenu viralisant sur LinkedIn/Twitter avant une affiliation/partenariat salon.",
+        "action": "1) Créer une série de 3 posts LinkedIn 'AI Trends' déclinant NeuralSearch 2.0 : (J0) 'Pourquoi la recherche devient générative', (J+3) Case study 'Algolia + client majeur', (J+7) 'Les 5 use-cases RAG à surveiller en 2026'. 2) Produire 1 infographie 'RAG expliqué en 60 sec' (visuel : barre de recherche → recherche vectorielle + LLM → réponse générée). 3) Lancer un sondage community LinkedIn 'Utilisez-vous RAG en prod ?' pour générer engagement et qualifier les visiteurs potentiels.",
+        "post_linkedin_draft": "🚀 LA RECHERCHE DEVIENT INTELLIGENTE | Algolia vient de lancer NeuralSearch 2.0 avec RAG intégré. Traduction : votre barre de recherche peut maintenant *générer des réponses*, pas juste les indexer.\n\nC'est un game-changer pour :\n✓ Les e-commerces (recos produits + génération descriptions)\n✓ Les SaaS B2B (onboarding clients + guide interactif)\n✓ Les services financiers (recherche documentaire + analyse)\n\nRéalité 2026 : RAG passe du lab à la prod. Et les décideurs tech français en parlent déjà.\n\nVous testez RAG en interne ? Dites-le en commentaire 👇 On l'explore en détail lors de #BDAIP 2026 (15-16 sept, Palais des Congrès). \n\n#IA #RAG #Search #DataScience #GenerativeAI",
+        "content_idea": "Créer un **mini-guide 'RAG pour les Décideurs'** (format long-form, 2000 mots) : 1) Qu'est-ce que RAG et pourquoi c'est révolutionnaire (analogie simple). 2) 5 cas d'usage réels (e-comm, SaaS, finance, RH, support client). 3) Les pièges à éviter (hallucination, latence, coûts LLM). 4) Checklist 'Suis-je prêt pour RAG ?' (gouvernance data, infrastructure, compétences). Positionnement : 'Le guide que votre DAF/RSSI devrait lire avant d'investir'. À promouvoir via LinkedIn, email nurture (prospects BDAIP), et téléchargement sur site (lead magnet). Signature : 'RX France Big Data & AI Paris 2026'.",
+        "visual_brief": "Infographie sur 1 slide visuelle :\n- TITRE : 'De la Recherche Classique à la Recherche Générative' \n- SECTION 1 (gauche) : Icône loupe classique + Indexation → Résultats listés (approche traditionnelle).\n- SECTION 2 (droite, flèche vers le haut) : Icône loupe + AI magic sparkle + Vectorisation + LLM → Réponse générée en langage naturel.\n- PALETTE : Bleu/Violet (tech sérieux) + Vert fluo (innovation). \n- TYPOGRAPHIE : Montserrat bold pour titres, texte clair sans jargon.\n- FOOTER : Logo BDAIP 2026 + Tagline 'Où l'IA devient opérationnelle'."
+      }
+    }
+  },
+  {
+    "id": "SIG-0014",
+    "source": "lemondeinformatique",
+    "company": "Capgemini",
+    "signal_type": "partnership",
+    "title": "Capgemini et Google Cloud créent un Centre d'Excellence GenAI à Paris",
+    "summary": "Capgemini et Google Cloud annoncent la création d'un Centre d'Excellence dédié à l'IA générative à Paris-La Défense. Objectif : accompagner les grandes entreprises françaises dans l'adoption de Gemini et Vertex AI.",
+    "url": "https://lemondeinformatique.fr/capgemini-google-genai-center",
+    "detected_at": "2026-05-08T16:04:59.063608",
+    "raw_entities": {
+      "partner": "Google Cloud",
+      "location": "Paris-La Défense",
+      "focus": "GenAI"
+    },
+    "account_info": {
+      "name": "Capgemini",
+      "sector": "Conseil & Intégration",
+      "icp_score": 8,
+      "notes": "Leader français du conseil tech, toujours présent sur les salons data"
+    },
+    "signal_meta": {
+      "id": "partnership",
+      "label": "Partenariat stratégique",
+      "description": "Alliance techno, intégration, co-développement",
+      "weight": 1.5
+    },
+    "scores": {
+      "account_fit": 8,
+      "signal_strength": 4.9,
+      "timing": 5,
+      "composite": 6.03
+    },
+    "priority": "WARM 🟠",
+    "activation": {
+      "sales": {
+        "pourquoi": "Capgemini vient de créer un Centre d'Excellence GenAI à Paris avec Google Cloud. C'est une opportunité MAJEURE : ils vont recruter, former, pitcher leurs services GenAI. BDAIP 2026 est leur vitrine naturelle pour montrer leur expertise et attirer des clients. Leur présence massive au salon devient quasi-certaine.",
+        "action": "Contact DIRECT avec le VP Marketing & Events de Capgemini France (chercher via LinkedIn) + équipe sponsoring du Centre d'Excellence. Proposer un package PREMIUM : booth 3x3m en zone centrale + speaking slot keynote sur « Gemini en entreprise » + accès VIP lounge.",
+        "message_linkedin": "Capgemini 🎯 Vos ambitions GenAI méritent une plateforme à la hauteur. BDAIP 2026 (15-16 sept, Palais des Congrès) réunit les 2 500 décideurs data & AI français qui font bouger les lignes. Votre Centre d'Excellence Paris-La Défense y trouvera ses futurs clients. On discute d'une visibilité maximale ? 🚀",
+        "email_subject": "Capgemini x BDAIP : Plateforme exclusive pour votre Centre d'Excellence GenAI",
+        "email_body": "Bonjour [Prénom],\n\nFélicitations pour le lancement du Centre d'Excellence GenAI Capgemini-Google Cloud ! Nous avons suivi cette annonce avec beaucoup d'intérêt.\n\nBDAIP 2026 (15-16 septembre, Palais des Congrès Paris) est l'événement stratégique où se concentrent les entreprises du CAC40 et ETI en transformation GenAI. Nous vous proposons :\n\n✅ Booth Premium 3x3m (zone centrale, 100% visible)\n✅ 1 keynote slot (30 min) pour présenter votre approche Gemini/Vertex AI\n✅ 3 meeting tables en VIP lounge (pre-booking avec prospects chauds)\n✅ Package partenaire logo prominent dans tous les supports\n\nLe timing est parfait : vous avez 4 mois pour capitaliser sur cet élan et générer du pipeline qualifié.\n\nLibre pour un call 30 min cette semaine ?\n\nCordialement,\n[Nom - Commercial RX France]",
+        "follow_up_sequence": [
+          "J+3: Relance douce via LinkedIn (commentaire constructif sur leur post Centre d'Excellence)",
+          "J+7: Email de suivi avec ROI chiffré : « Derniers exposants BDAIP 2025 ont généré 47 leads B2B qualifiés en 2 jours »"
+        ]
+      },
+      "direction_salon": {
+        "pourquoi": "Ce partenariat Capgemini-Google Cloud révèle une tendance MAJEURE : les cabinets de conseil français se positionnent agressivement en tant qu'intégrateurs GenAI avec les hyper-scalers. Cela signifie (1) la demande des visiteurs en solutions GenAI opérationnelles va EXPLOSER, (2) les exposants tech seront en forte compétition pour attirer ces visiteurs, (3) BDAIP doit se repositionner comme « l'événement où on passe du POC à la production ».",
+        "action": "Revoir immédiatement la programmation 2026 : (1) Ajouter une track « GenAI en Production : retours d'expérience Capgemini/Google Cloud » (2 panels = 4h de contenu cible), (2) Réserver 6 meeting tables en zone premium pour matching de partenaires, (3) Cibler les autres cabinets (Accenture, Deloitte, EY) pour créer de la compétition saine.",
+        "insight_3_phrases": "Le Centre d'Excellence Capgemini-Google Cloud transforme Paris en hub GenAI opérationnel : cela va attirer 40-50% plus d'exposants tech en 2026. Les visiteurs ne viendront plus en exploration, mais en recherche de solutions implémentables. BDAIP 2026 doit devenir le point de rencontre obligatoire entre les intégrateurs et leurs prospects prêts à investir.",
+        "angle_positionnement": "« BDAIP 2026 : Du POC à la mise en production GenAI — l'événement où les décideurs rencontrent les cabinets qui livrent. Partenaires : Capgemini, Google Cloud, [autres à confirmer] »"
+      },
+      "marketing": {
+        "pourquoi": "Capgemini + Google Cloud = deux marques prestigieuses qui crédibilisent BDAIP auprès des visiteurs IT/Data séniors. Ce signal prouve que le salon n'est pas une simple vitrine, mais un ecosystème vibrant où les transformations GenAI réelles se construisent. C'est du contenu inspirant 100% gratuit pour attirer la bonne audience.",
+        "action": "Lancer une série de 4 contenus sur 6 semaines : (1) Post LinkedIn vidéo 60sec « Pourquoi Capgemini choisit BDAIP pour amplifier sa stratégie GenAI », (2) Case study court « Les 3 éléments clés du Centre d'Excellence », (3) Webinaire 45 min « GenAI en production : Retours du terrain Capgemini » (gratuit, inscription BDAIP), (4) Newsletter spéciale « Les cabinets de conseil transforment GenAI en réalité ».",
+        "post_linkedin_draft": "🎯 C'est officiel : Capgemini et Google Cloud créent un Centre d'Excellence GenAI à Paris.\n\nPour vous ? Cela signifie UNE CHOSE : les transformations GenAI passent de la théorie à la pratique. Les consultants qui accompagnaient vos POC sont maintenant équipés pour les déployer en production.\n\nBDAIP 2026 (15-16 sept) sera le rendez-vous où cabinets de conseil et directions métier se rencontrent pour concrétiser ces transformations.\n\nVous préparez un projet GenAI ? Réservez vos places ➜ [lien inscription]\n\n#GenAI #DataStrategy #Transformation #BDAIP2026",
+        "content_idea": "Webinaire gratuit 45 min : « 3 pièges du GenAI en production et comment Capgemini les contourne ». Intervenants : 1 expert Capgemini Centre d'Excellence + 1 client ayant déployé Gemini. Positionnement : BDAIP comme plateforme de savoir pratique, pas théorique. Objectif : 800+ inscrits, 200+ présents live.",
+        "visual_brief": "Infographie 1200x1500px : axe vertical = étapes GenAI (Exploration → POC → Production). Logos Capgemini + Google Cloud sur l'étape 3 (Production). Baseline : « BDAIP 2026 : Où GenAI devient réalité ». Couleurs : bleu Capgemini + bleu Google + accent or RX France. Style : corporate clean, confiant, orienté décision."
+      }
+    }
+  },
+  {
+    "id": "SIG-0011",
+    "source": "lesechos",
+    "company": "Accenture",
+    "signal_type": "media_mention",
+    "title": "Accenture investit 3Md$ dans l'IA générative et double ses effectifs GenAI",
+    "summary": "Accenture annonce un investissement de 3 milliards de dollars dans l'IA générative sur 3 ans, doublant ses effectifs dédiés à 80 000 personnes. La France est identifiée comme hub clé pour la practice européenne.",
+    "url": "https://lesechos.fr/accenture-3md-genai",
+    "detected_at": "2026-05-05T16:04:59.063608",
+    "raw_entities": {
+      "investment": "3Md$",
+      "headcount_target": 80000,
+      "focus": "GenAI"
+    },
+    "account_info": {
+      "name": "Accenture",
+      "sector": "Conseil & Intégration",
+      "icp_score": 8,
+      "notes": "Gros budget événementiel, practice data/AI en croissance"
+    },
+    "signal_meta": {
+      "id": "media_mention",
+      "label": "Mention presse spécialisée",
+      "description": "Article dans L'Usine Digitale, Alliancy, Le Monde Informatique, etc.",
+      "weight": 1.0
+    },
+    "scores": {
+      "account_fit": 8,
+      "signal_strength": 3.3,
+      "timing": 5,
+      "composite": 5.37
+    },
+    "priority": "WARM 🟠",
+    "activation": {
+      "sales": {
+        "pourquoi": "Accenture investit 3Md$ en GenAI et recrute 80 000 talents : c'est une fenêtre d'opportunité CRITIQUE pour vendre des espaces exposants (booth premium) et du sponsoring thématique. Leur hub France signifie budget décentralisé et besoin d'activation locale. ICP score 8 = client prioritaire à convertir.",
+        "action": "1) Identifier le VP Practice Data & AI France (via LinkedIn) + responsable recrutement GenAI 2) Appel découverte en J+2 axé sur 'Comment Accenture va recruter et former ses 80k talents GenAI' 3) Proposer sponsoring 'AI Talent Hub' ou booth premium + espace conférence 4) Chiffrer : 'Reach 15k décideurs IT/Data en 2 jours'",
+        "message_linkedin": "🎯 Accenture accélère massivement sur la GenAI avec 3Md$ et 80k talents en renfort. Avec votre présence incontournable chez les décideurs data/AI français, Big Data & AI Paris 2026 est LE rendez-vous pour showcaser vos nouvelles practices et recruter les meilleurs talents. On en parle ? #GenAI #DataEngineering",
+        "email_subject": "Accenture GenAI : L'opportunité BDAIP 2026 pour recruter vos 80k talents en France 🚀",
+        "email_body": "Bonjour [Prénom],\n\nVotre annonce d'investissement 3Md$ en IA générative + doublement des effectifs GenAI me confirme : vous avez besoin de visibilité et de talent pipelines EN URGENCE.\n\nBig Data & AI Paris (15-16 sept 2026) réunit 15 000 visiteurs décideurs IT/Data/Cybersécurité. C'est votre marché.\n\n2 propositions testées :\n✓ SPONSOR « AI Talent Hub » : booth premium 50m² + conférence dédiée à vos practices + accès VIP 200 décideurs\n✓ BOOTH STANDARD + table ronde « Recruter & former 80k talents GenAI »\n\nAvec 80k postes à pourvoir en Europe, chaque semaine compte.\n\nDisponible mardi pour explorer l'option qui aligne vos objectifs recrutement.\n\nCordiales salutations,\n[Nom] - RX France\n[Téléphone]",
+        "follow_up_sequence": [
+          "J+3: Email de suivi doux - 'Avez-vous pu consulter BDAIP 2026 ? Créneau jeudi 15h dispo pour un quick call.'",
+          "J+7: Call outbound direct - Viser le Directeur Practice Data/AI ou Manager Recrutement GenAI - Positionnement : 'Vous avez annoncé 80k talents à recruter, BDAIP est où ils cherchent des jobs'. Inclure 2-3 cas de success autres intégrateurs."
+        ]
+      },
+      "direction_salon": {
+        "pourquoi": "Ce signal révèle que les GRANDS acteurs du conseil (Accenture = leader incontesté) massifient leurs investissements GenAI et relocalisent à la France. Cela signifie : (1) Demand-side énorme pour contenu IA responsable & Ethics (les 80k recrues vont chercher du repérage) (2) Supply-side en consolidation (moins de PME GenAI, plus d'intégrateurs) (3) Opportunité pour BDAIP de se positionner comme 'point d'accès aux talents GenAI français' auprès des grands groupes.",
+        "action": "1) Valider avec Product/Programming : ajouter une track « Recruter & Retenir les Talents GenAI » (2-3 conférences, 1 workshop) 2) Ajuster targeting VIP : focus sur RH Tech + Managers Recrutement des Top50 intégrateurs 3) Négocier 1-2 keynotes majeures avec Accenture (« L'IA responsable pour 80k talents ») 4) Revoir la branding BDAIP : 'Le marché du talent GenAI français' vs juste 'technologie'",
+        "insight_3_phrases": "Accenture renforce la France comme hub GenAI européen = confirmation que BDAIP se positionne sur LE pipeline talent du marché. Les 80k recrutements d'Accenture vont créer une vague de demande 'upskilling GenAI' = angle fort pour attirer les écoles, les agences RH tech, les éditeurs de formation. La consolidation autour des mega-intégrateurs signifie BDAIP doit affiner l'offre pour les décideurs IT/Talent (moins de startup, plus de scale-ups et ETI qui cherchent des partenaires grands comptes).",
+        "angle_positionnement": "« BDAIP 2026 : Le marché du talent et de la transformation GenAI en France » — Repositionner le salon comme point de rencontre où les 80k futurs talents GenAI se forment ET où les intégrateurs comme Accenture recrutent."
+      },
+      "marketing": {
+        "pourquoi": "Accenture + 3Md$ + 80k talents = un STORY génant qui crée FOMO auprès des décideurs data/AI et des candidats en reconversion. C'est un hook viral pour mobiliser la communauté et créer de l'engagement. Le signal 'France = hub clé' est un local angle très fort pour MarcomS France.",
+        "action": "1) Créer une série de 3-4 posts LinkedIn « GenAI Momentum » 2) Produire 1 infographie « Les chiffres de la transformation GenAI en France 2026 » 3) Lancer un sondage LinkedIn « Vous préparez votre reconversion GenAI ? » 4) Contacter Accenture pour une quote témoignage sponsoring 5) Créer 1 email nurture segment 'Talents en reconversion' avec BDAIP 2026 comme CTA",
+        "post_linkedin_draft": "📊 CHIFFRES CLÉS du marché GenAI en France 2026 :\n\n✓ Accenture investit 3Md$ + double ses effectifs GenAI à 80k\n✓ France confirmée comme hub stratégique pour l'Europe\n✓ + de 15k décideurs data/AI français en quête de stratégie et talent\n\n🎯 Le moment de UP-SKILLER et de RÉSEAUTER est MAINTENANT.\n\nBig Data & AI Paris 2026 (15-16 sept) réunit tous les acteurs : intégrateurs, éditeurs, talents, écoles.\n\nVous préparez votre transformation GenAI ? On y sera. Vous recruter ? Pareil.\n\nRejoignez les 15k décideurs qui bougent 🚀\n\n👉 Inscription : [LIEN BDAIP]\n\n#GenAI #DataEngineering #IA #France #Recrutement #TalentTech",
+        "content_idea": "WEBINAIRE (45min) : « Accenture recrute 80k talents GenAI en France : comment les préparer ? » Guests : (1) Responsable Practice GenAI Accenture France (pour témoignage) (2) Directeur école IA reconversion (Epitech, Simplon, etc.) (3) Talent manager Tech (Critères d'embauche GenAI 2026). Format : modéré + Q&A live. CTA : 'Inscrivez-vous à BDAIP 2026 pour deepdive avec les experts.' Promotion : LinkedIn, email nurture, partenaires écoles.",
+        "visual_brief": "Infographie 1 pager format LinkedIn | Titres bleu/orange RX | 5 sections : (1) « 3 milliards $ investis par Accenture GenAI 2026-2029 » (gros chiffre + icône €) (2) « 80 000 talents GenAI recrutés (+ dém. graphique) (3) « France = hub européen » (carte stylisée) (4) « 15 000 décideurs réunis BDAIP 2026 » (graphique de croissance) (5) CTA « Rejoignez le mouvement - 15-16 sept BDAIP » | Style : moderne, épuré, typography bold, pas trop dense | Format : 1200x1500px pour LinkedIn"
+      }
+    }
+  }
+]

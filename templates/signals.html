@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signaux — Market Signal Engine</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <nav>
+        <div class="nav-brand">📡 Market Signal Engine</div>
+        <div class="nav-links">
+            <a href="/">Configuration</a>
+            <a href="/signals" class="active">Signaux</a>
+        </div>
+    </nav>
+
+    <main class="container">
+        <div class="page-header">
+            <h1>Signal Inbox</h1>
+            <div class="header-controls">
+                <select id="config-select" onchange="loadSignals()">
+                    <option value="">Sélectionner un salon…</option>
+                </select>
+                <button class="btn" onclick="refreshSignals()">↻ Rafraîchir</button>
+            </div>
+        </div>
+
+        <!-- KPI bar -->
+        <div id="kpi-bar" class="kpi-bar hidden">
+            <div class="kpi"><span class="kpi-value" id="kpi-total">0</span><span class="kpi-label">Total</span></div>
+            <div class="kpi kpi-hot"><span class="kpi-value" id="kpi-hot">0</span><span class="kpi-label">HOT 🔴</span></div>
+            <div class="kpi kpi-warm"><span class="kpi-value" id="kpi-warm">0</span><span class="kpi-label">WARM 🟠</span></div>
+            <div class="kpi kpi-cold"><span class="kpi-value" id="kpi-cold">0</span><span class="kpi-label">COLD 🔵</span></div>
+        </div>
+
+        <!-- Filters -->
+        <div id="filters" class="filters hidden">
+            <div class="filter-group">
+                <label>Priorité</label>
+                <div id="filter-priority" class="filter-chips"></div>
+            </div>
+            <div class="filter-group">
+                <label>Entreprise</label>
+                <div class="dropdown-multiselect" id="company-dropdown">
+                    <button type="button" class="dropdown-toggle" onclick="toggleDropdown()">
+                        Toutes les entreprises <span id="company-count-badge"></span>
+                    </button>
+                    <div class="dropdown-menu hidden" id="company-dropdown-menu"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Signal list -->
+        <div id="signal-list"></div>
+
+        <div id="empty-state" class="empty-state">
+            <p>Sélectionnez un salon pour afficher les signaux.</p>
+        </div>
+    </main>
+
+    <script src="/static/app.js"></script>
+    <script>initSignalsPage();</script>
+</body>
+</html>

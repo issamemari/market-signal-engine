@@ -1,0 +1,21 @@
+services:
+  fetch:
+    build: .
+    command: python fetch_signals.py
+    environment:
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+    volumes:
+      - signal-data:/app/data
+
+  web:
+    build: .
+    command: python app.py
+    ports:
+      - "8000:8000"
+    environment:
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+    volumes:
+      - signal-data:/app/data
+
+volumes:
+  signal-data:

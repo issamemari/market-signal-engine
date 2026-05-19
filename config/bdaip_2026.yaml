@@ -1,0 +1,68 @@
+salon:
+  name: "Big Data & AI Paris 2026"
+  short_code: "BDAIP"
+  dates: "15-16 septembre 2026"
+  location: "Palais des Congrès, Paris"
+  themes:
+    - "Intelligence Artificielle Générative"
+    - "Data Engineering & DataOps"
+    - "Cloud & Infrastructure Data"
+    - "Cybersécurité & IA"
+    - "IA Responsable & Éthique"
+
+personas:
+  sales:
+    role: "Commercial RX France"
+    goal: "Identifier et contacter les décideurs pour vendre des espaces exposants et du sponsoring"
+    tone: "Direct, orienté business, chiffres concrets"
+    channels: ["LinkedIn DM", "Email", "Téléphone"]
+  direction_salon:
+    role: "Directeur/Directrice du salon"
+    goal: "Comprendre les tendances marché pour positionner le salon et ajuster la programmation"
+    tone: "Stratégique, synthétique, orienté décision"
+    channels: ["Brief interne", "Comité de pilotage"]
+  marketing:
+    role: "Équipe Marketing & Communication"
+    goal: "Créer du contenu engageant pour promouvoir le salon et attirer les visiteurs"
+    tone: "Inspirant, accessible, orienté communauté"
+    channels: ["LinkedIn post", "Newsletter", "Blog"]
+
+signal_types:
+  - id: "nomination"
+    label: "Nomination C-level"
+    description: "Nouveau CDO, CTO, CDAO, VP Data/AI"
+    weight: 3.0
+  - id: "funding"
+    label: "Levée de fonds ≥10M€"
+    description: "Série A+ ou méga-round"
+    weight: 2.5
+  - id: "product_launch"
+    label: "Lancement produit IA/Data"
+    description: "Nouveau produit, feature majeure, partenariat techno"
+    weight: 2.0
+  - id: "hiring_surge"
+    label: "Vague de recrutement Data/AI"
+    description: "10+ postes ouverts en data/AI/ML"
+    weight: 2.0
+  - id: "competing_event"
+    label: "Présence événement concurrent"
+    description: "Sponsor ou speaker à VivaTech, AWS Summit, Snowflake Summit, etc."
+    weight: 1.5
+  - id: "media_mention"
+    label: "Mention presse spécialisée"
+    description: "Article dans L'Usine Digitale, Alliancy, Le Monde Informatique, etc."
+    weight: 1.0
+  - id: "partnership"
+    label: "Partenariat stratégique"
+    description: "Alliance techno, intégration, co-développement"
+    weight: 1.5
+
+scoring:
+  weights:
+    account_fit: 0.35
+    signal_strength: 0.40
+    timing: 0.25
+  thresholds:
+    hot: 7.5
+    warm: 5.0
+    cold: 0.0

@@ -1,0 +1,183 @@
+{
+  "timestamp": 1779205117.75953,
+  "signals": [
+    {
+      "id": "SIG-4F788DF9",
+      "source": "Google News (retail expansion 2026 Europe)",
+      "company": "GigaCloud Technology",
+      "signal_type": "store_opening",
+      "title": "GigaCloud Technology affiche 32% de croissance avec l'expansion en Europe et sa marketplace tierce",
+      "summary": "GigaCloud Technology rapporte une croissance revenue de 32%, portée par l'expansion en Europe et la montée en charge de sa marketplace tierce. Cette croissance témoigne de la scalabilité du modèle omnicanal et de la pénétration européenne de la plateforme de retail digital.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYnVzMDNvdDFTQkxOQ3NmZDlRVnRiOU9TREdJLV9mWWptUnRIZzFrV3ZhTjJnaGFaYlJIeWcyOG9ySUNTUExqU2ZEZFhpWThib0lxTjRHeVlzN092VHVHcG40dWpyakNhSjZOUWEyWElFcnNzelVsMGNITV9PbE9uSkwzVEpwMnBEaldsanBlME13cTBOTTBrVTVkb29OaG9uSEhfb2tMVGQ2a2s1X3R6SDhfMmlHVEgtSEFzTjN5Sk9nU1BqcHdyS2lKQVpPeGZydUZsamJCU0d0bHQxVF82Wmp3?oc=5",
+      "detected_at": "2026-05-17T09:03:10",
+      "raw_entities": {
+        "company_name": "GigaCloud Technology",
+        "revenue_growth": "32%",
+        "geographic_expansion": "Europe",
+        "business_model_evolution": "Third-Party Marketplace"
+      },
+      "account_info": {
+        "name": "GigaCloud Technology",
+        "sector": "E-commerce / Digital Retail / Logistics & Fulfillment",
+        "icp_score": 6
+      },
+      "scores": {},
+      "priority": "",
+      "activation": {}
+    },
+    {
+      "id": "SIG-EE72C8F8",
+      "source": "Google News (retail expansion 2026 Europe)",
+      "company": "Un Bon Maillot",
+      "signal_type": "funding",
+      "title": "Un Bon Maillot rachetée par Wonderbox : accélération de l'expansion retail et européenne",
+      "summary": "La start-up lorraine Un Bon Maillot a été rachetée par Wonderbox, opérateur majeur de l'expérience et du divertissement. Cette acquisition marque une accélération stratégique de son expansion en retail physique et géographique en Europe, alignée avec les tendances omnicanales et de mixed-use du secteur.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc29DMVRKTEtqQVdUTURDc1pRc3A0U0pIZ3pNVTc5aVJEVWpGMnJsT3VsajlmQkw2Uzd6bkx2T3NzV09JZ2lEOXBNdmowTmdJUDFqMGRmRXZQZGZva0U3NFB5UkZoSXRRM1J4bVJoTUxveVdGS3ZZV0t5SVNXVmhkRWhRQ1Nia0ZOTFYyMW42Q0NUeVBldkxPMkhVY3lUNHpNUkM1VlR0ajZfU0Z3eVh0S0Q3cVR2OWQ3QlFVOGV3ZWFBbndJWnJiRVFIYzBvTl8zQzQteTdR?oc=5",
+      "detected_at": "2026-03-04T08:00:00",
+      "raw_entities": {
+        "acquired_company": "Un Bon Maillot",
+        "acquirer": "Wonderbox",
+        "deal_type": "Acquisition",
+        "geography": "Europe",
+        "focus_areas": [
+          "Retail expansion",
+          "Expansion géographique"
+        ]
+      },
+      "account_info": {
+        "name": "Un Bon Maillot",
+        "sector": "E-commerce / Retail de mode et articles de sport",
+        "icp_score": 7
+      },
+      "scores": {},
+      "priority": "",
+      "activation": {}
+    },
+    {
+      "id": "SIG-3044A643",
+      "source": "Google News (retail expansion 2026 Europe)",
+      "company": "Sessùn",
+      "signal_type": "store_opening",
+      "title": "Sessùn pilote son expansion internationale après 30 ans d'histoire",
+      "summary": "La marque française de mode Sessùn accélère son développement à l'international après trois décennies d'activité. L'article détaille sa stratégie d'expansion géographique et sa présence croissante sur les marchés européens, représentant une stratégie de croissance retail significative.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNER3N241ZU1MY1BCVU1QclYxWG1JdE9sX2tyd1U5akNmVHVtdlhVaWwya2NtclI0WTNLdmdlWmplZzBBUGE2eTJFWml5eUtkLXhoYUZ5TTZoZVRkdW5sVlFtU0FUUVktUWcwQ19PVG9VcEFXck1kRTBiYnItZzV5Z0xXUkQzVmdkUzNZX3ctbjItSzdXb2RrMTd4M3VseGd0ZUtEdGhOX3JrSlpmNExrNzBrUWdSZUZvVFJIZHVHWS1NdjdIZjhLVQ?oc=5",
+      "detected_at": "2026-04-02T07:00:00",
+      "raw_entities": {
+        "company_name": "Sessùn",
+        "industry": "Fashion/Apparel Retail",
+        "geography": "Europe, International",
+        "news_date": "2026-04-02",
+        "context": "retail expansion 2026 Europe"
+      },
+      "account_info": {
+        "name": "Sessùn",
+        "sector": "Fashion & Retail",
+        "icp_score": 7
+      },
+      "scores": {},
+      "priority": "",
+      "activation": {}
+    },
+    {
+      "id": "SIG-027F9FF5",
+      "source": "Google News (retail expansion 2026 Europe)",
+      "company": "JD.com",
+      "signal_type": "store_opening",
+      "title": "JD.com lance JOYBUY en Europe : expansion stratégique du e-commerce",
+      "summary": "JD.com revient sur le marché européen avec sa plateforme JOYBUY, marquant une nouvelle expansion géographique majeure face à des concurrents comme Amazon et Temu. Cette stratégie de retail digital et omnicanal positionne l'entreprise comme acteur clé du commerce électronique européen et des transformations urbaines liées aux services de livraison et logistique urbaine.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ0ZsaWJfNDEyRndmZGRuSFN1UXh1LS00YlBnSXJyemlENGJJSEhNZERrdzhzSFdFY2xwRmE5SThaRGJwYjFmQU56a0lUQVZDWXM0WjdGdzYySTl5OTl2STQ0aFNmQVNGYWo3WFBaNnAyMi1xLXR1TlVXbHk0d3hpZUVyeVpENFJ0eG05UHpDdEVaSHh6WTBPNkstUFZBSWtkeEhvQ1hOR0QtSmx3cHZTU0ZfbDREd3AxMkk0OFZWcFloQlJ0?oc=5",
+      "detected_at": "2026-03-16T07:00:00",
+      "raw_entities": {
+        "company": "JD.com",
+        "brand": "JOYBUY",
+        "geography": "Europe",
+        "competitors": [
+          "Amazon",
+          "Temu"
+        ],
+        "announcement_date": "2026-03-16",
+        "activity_type": "market_entry"
+      },
+      "account_info": {
+        "name": "JD.com",
+        "sector": "E-commerce & Digital Retail",
+        "icp_score": 8
+      },
+      "scores": {},
+      "priority": "",
+      "activation": {}
+    },
+    {
+      "id": "SIG-0137FAEE",
+      "source": "Google News (retail expansion 2026 Europe)",
+      "company": "Lynk & Co",
+      "signal_type": "store_opening",
+      "title": "Lynk & Co renforce sa présence retail et prépare une nouvelle phase de croissance",
+      "summary": "Lynk & Co annonce un renforcement de ses bases retail et la préparation d'une nouvelle ère de croissance. Cette expansion s'inscrit dans une stratégie de consolidation de la présence physique de la marque automobile, avec des implications directes sur les stratégies omnicanal et l'expérience retail.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQUFxNHVFTVVGYWJMUHZxQ05VZlhXclZKSGN1c2xTT0JPcEdINTZZRkJxTU01aGNDem1PNktBTkdWUVRRQlgxMmM5bkQtdE5WdmlGOGhpNlJjSmVoVEY0WU10NkRRbFlzZk5qWnA0ZGlWM2F5YUNXUDZIcF8zVkxiMDJheGN5ZUJCdlNFTFIxTmIwVkJnU0wyUGlEWkV5a2lIZXI3eU9na0VEVkhBTkJtaVBDVEU?oc=5",
+      "detected_at": "2025-11-26T08:00:00",
+      "raw_entities": {
+        "company": "Lynk & Co",
+        "announcement_type": "Retail expansion",
+        "geographic_scope": "Europe",
+        "timing": "2026"
+      },
+      "account_info": {
+        "name": "Lynk & Co",
+        "sector": "Automobile / Retail Automotive",
+        "icp_score": 6
+      },
+      "scores": {},
+      "priority": "",
+      "activation": {}
+    },
+    {
+      "id": "SIG-8FC1A8A2",
+      "source": "Google News (retail expansion 2026 Europe)",
+      "company": "Sperry",
+      "signal_type": "partnership",
+      "title": "Sperry accélère son expansion européenne via un partenariat de distribution",
+      "summary": "La marque de chaussures Sperry poursuit sa stratégie de relance en Europe en nouant un partenariat de distribution stratégique. Cette expansion géographique s'inscrit dans une dynamique de développement du réseau retail en zones clés du continent européen.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM1NaWTNTU3NpQjdXblM4UnRYNzNqV3BmWmNaNnY5bHF6QVZvLVp1Vmd6QnVKeUpTZmdLQ0Y5MTk3cXQ0TGVLSTV1QWxKNFVkSHBMS21OR0JBR3BlR2ZYR2MxcXNXcGVHbGRlemR6MHBZMDBXR0MyS3BCV3lQWTJkTzBudDBCZ1U2Y1FLY2dqV1hPUFU4TU1VTEhxWXJGSHdWSmFhTEp6YjdscnlHMzlMMWFYZXIwQzcwbVhZLTdjNG0tQUd1d29FcE1WR3hWVkpKWHc?oc=5",
+      "detected_at": "2026-04-22T07:00:00",
+      "raw_entities": {
+        "company": "Sperry",
+        "geography": "Europe",
+        "signal_category": "partnership",
+        "article_source": "FashionUnited",
+        "publication_date": "2026-04-22"
+      },
+      "account_info": {
+        "name": "Sperry",
+        "sector": "Retail Fashion & Footwear",
+        "icp_score": 6
+      },
+      "scores": {},
+      "priority": "",
+      "activation": {}
+    },
+    {
+      "id": "SIG-1BBC4C95",
+      "source": "Google News (retail expansion 2026 Europe)",
+      "company": "Lynk & Co",
+      "signal_type": "store_opening",
+      "title": "Lynk & Co consolide ses positions en Europe avant nouvelle expansion",
+      "summary": "Lynk & Co, marque automobile chinoise, consolide actuellement ses implantations en Europe avant d'envisager une ouverture vers de nouveaux territoires. Ce signal indique une stratégie d'expansion géographique et de renforcement de présence retail en marché mature.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaTc4b2tiay1vLU5HMTJ3aDQzU3ZoWDRWVlU2Y1lHendNOWlnOEZtVzhoYWRhNk56dVM5eGxQUnBCQ2FKVmhPbEkzZmo4MFJyOEp0cWNjZWZIdXFuZ2QtZnE0bEl6alpodXdrRURPRG1VclQ2UWR6WVluelcwZGJNVTM1N0VmYVZRQ2RCem54djAyWUdwVGpNcFpmbUUtdk9BYURUZ21kdU40dUI1eDY2T29fN1J1bTBVLUM0XzJ4bnI1WksxZFJrTm9NSjVYbUt6dkZzTVNYQ0stdw?oc=5",
+      "detected_at": "2025-11-26T08:00:00",
+      "raw_entities": {
+        "company": "Lynk & Co",
+        "geography": "Europe",
+        "strategy": "consolidation puis expansion"
+      },
+      "account_info": {
+        "name": "Lynk & Co",
+        "sector": "Automobile / Retail",
+        "icp_score": 6
+      },
+      "scores": {},
+      "priority": "",
+      "activation": {}
+    }
+  ]
+}

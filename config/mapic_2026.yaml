@@ -1,0 +1,60 @@
+salon:
+  name: "MAPIC 2026"
+  short_code: "MAPIC"
+  dates: "26-28 novembre 2026"
+  location: "Palais des Festivals, Cannes"
+  themes:
+    - "Retail & Immobilier Commercial"
+    - "Mixed-Use & Urban Regeneration"
+    - "Digital Retail & Omnicanal"
+    - "Sustainability & ESG"
+    - "Leisure & Entertainment"
+
+personas:
+  sales:
+    role: "Commercial RX France"
+    goal: "Vendre des espaces exposants et du sponsoring aux acteurs de l'immobilier commercial"
+    tone: "Direct, orienté business, chiffres concrets"
+    channels: ["LinkedIn DM", "Email", "Téléphone"]
+  direction_salon:
+    role: "Directeur/Directrice du salon"
+    goal: "Positionner MAPIC comme le rendez-vous incontournable du retail & immobilier"
+    tone: "Stratégique, synthétique, orienté décision"
+    channels: ["Brief interne", "Comité de pilotage"]
+  marketing:
+    role: "Équipe Marketing & Communication"
+    goal: "Attirer visiteurs et exposants avec du contenu engageant sur les tendances retail"
+    tone: "Inspirant, accessible, orienté communauté"
+    channels: ["LinkedIn post", "Newsletter", "Blog"]
+
+signal_types:
+  - id: "nomination"
+    label: "Nomination C-level"
+    description: "Nouveau CEO, CDO, Directeur Expansion"
+    weight: 3.0
+  - id: "funding"
+    label: "Levée de fonds / Acquisition"
+    description: "Transaction majeure dans le retail/immo"
+    weight: 2.5
+  - id: "store_opening"
+    label: "Ouverture / Expansion"
+    description: "Nouveau magasin, nouveau centre, expansion géographique"
+    weight: 2.0
+  - id: "partnership"
+    label: "Partenariat stratégique"
+    description: "Alliance retailer-foncière, co-développement"
+    weight: 1.5
+  - id: "competing_event"
+    label: "Présence événement concurrent"
+    description: "Sponsor ou speaker à MIPIM, RECon, ICSC"
+    weight: 1.5
+
+scoring:
+  weights:
+    account_fit: 0.35
+    signal_strength: 0.40
+    timing: 0.25
+  thresholds:
+    hot: 7.5
+    warm: 5.0
+    cold: 0.0
