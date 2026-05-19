@@ -74,9 +74,8 @@ def _chat_async_poll(model: str, system: str, user: str, max_tokens: int) -> str
             raise TimeoutError(f"LLM task {task_id} timed out after {POLL_TIMEOUT}s")
         time.sleep(POLL_INTERVAL)
         elapsed += POLL_INTERVAL
-        response = litellm.get_response(
+        response = litellm.get_responses(
             response_id=task_id,
-            custom_llm_provider="manus",
         )
 
     if response.status == "completed":
