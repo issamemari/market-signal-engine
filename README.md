@@ -120,6 +120,15 @@ export LLM_MODEL=mistral/mistral-small-latest
 python fetch_signals.py
 ```
 
+**Manus** (async — the engine polls until the task completes)
+```bash
+export MANUS_API_KEY=...
+export LLM_MODEL=manus/manus-1.6
+python fetch_signals.py
+```
+
+Available Manus models: `manus/manus-1.6` (general), `manus/manus-1.6-lite` (fast), `manus/manus-1.6-max` (advanced).
+
 **Mix providers per task** — use a cheap model for classification and a stronger one for activations:
 ```bash
 export OPENAI_API_KEY=sk-...

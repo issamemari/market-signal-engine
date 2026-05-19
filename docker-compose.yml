@@ -10,6 +10,7 @@ services:
       - OPENAI_API_KEY=${OPENAI_API_KEY:-}
       - GEMINI_API_KEY=${GEMINI_API_KEY:-}
       - MISTRAL_API_KEY=${MISTRAL_API_KEY:-}
+      - MANUS_API_KEY=${MANUS_API_KEY:-}
     volumes:
       - signal-data:/app/data
 
@@ -26,6 +27,7 @@ services:
       - OPENAI_API_KEY=${OPENAI_API_KEY:-}
       - GEMINI_API_KEY=${GEMINI_API_KEY:-}
       - MISTRAL_API_KEY=${MISTRAL_API_KEY:-}
+      - MANUS_API_KEY=${MANUS_API_KEY:-}
     volumes:
       - signal-data:/app/data
 
