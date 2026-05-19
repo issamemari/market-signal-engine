@@ -12,7 +12,7 @@ services:
       - MISTRAL_API_KEY=${MISTRAL_API_KEY:-}
       - MANUS_API_KEY=${MANUS_API_KEY:-}
     volumes:
-      - signal-data:/app/data
+      - ./data:/app/data
 
   web:
     build: .
@@ -29,7 +29,4 @@ services:
       - MISTRAL_API_KEY=${MISTRAL_API_KEY:-}
       - MANUS_API_KEY=${MANUS_API_KEY:-}
     volumes:
-      - signal-data:/app/data
-
-volumes:
-  signal-data:
+      - ./data:/app/data
