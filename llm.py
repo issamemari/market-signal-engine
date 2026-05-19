@@ -79,12 +79,22 @@ def _chat_async_poll(model: str, system: str, user: str, max_tokens: int) -> str
         )
 
     if response.status == "completed":
-        for message in response.output:
-            if message.role == "assistant":
-                for block in message.content:
-                    if hasattr(block, "text"):
-                        return block.text
-        raise ValueError(f"LLM task {task_id} completed but no text output found")
+        output = response.output if not isinstance(response.output, dict) else [response.output]
+        for message in output:
+            role = message.get("role") if isinstance(message, dict) else getattr(message, "role", None)
+            if role != "assistant":
+                continue
+            content = message.get("content") if isinstance(message, dict) else message.content
+            if isinstance(content, str):
+                return content
+            if isinstance(content, list):
+                for block in content:
+                    text = block.get("text") if isinstance(block, dict) else getattr(block, "text", None)
+                    if text:
+                        return text
+        # Fallback: try to extract any text from the raw response
+        raw = str(response)
+        raise ValueError(f"LLM task {task_id} completed but no text output found. Raw: {raw[:500]}")
 
     raise RuntimeError(f"LLM task {task_id} failed with status: {response.status}")
 
