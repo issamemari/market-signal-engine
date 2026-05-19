@@ -40,11 +40,8 @@ No hardcoded target companies — everything is discovered from news based on th
 ### Step 1: Fetch and classify signals
 
 ```bash
-# Set your provider's API key (Anthropic, OpenAI, Gemini, Mistral, etc.)
-export ANTHROPIC_API_KEY=sk-ant-...
-# Optionally override the default model:
-# export LLM_MODEL=openai/gpt-4o-mini
-
+export MANUS_API_KEY=...
+export LLM_MODEL=manus/manus-1.6
 docker compose run --rm fetch
 ```
 
@@ -65,7 +62,8 @@ Open **http://localhost:8000**. Select a salon to see scored signals, filter by 
 ### Both steps together
 
 ```bash
-export ANTHROPIC_API_KEY=sk-ant-...  # or OPENAI_API_KEY, GEMINI_API_KEY, etc.
+export MANUS_API_KEY=...
+export LLM_MODEL=manus/manus-1.6
 docker compose run --rm fetch && docker compose up web
 ```
 
@@ -155,8 +153,8 @@ docker compose up web
 ```bash
 pip install -r requirements.txt
 
-export ANTHROPIC_API_KEY=sk-ant-...
-# Or: export OPENAI_API_KEY=sk-... && export LLM_MODEL=openai/gpt-4o-mini
+export MANUS_API_KEY=...
+export LLM_MODEL=manus/manus-1.6
 
 # Fetch signals for all salons (or specify one: python fetch_signals.py bdaip_2026)
 python fetch_signals.py
